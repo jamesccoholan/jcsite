@@ -18,7 +18,7 @@ export default function ProductSection() {
       <GridContainer justify="center">
         <GridItem xs={12} sm={12} md={8}>
           <h2 className={classes.title}>
-            The First Virtually Native On-Chain Artist Collective
+            Driving Entertinament Franchises on the Blockchain
           </h2>
         </GridItem>
       </GridContainer>
@@ -26,7 +26,7 @@ export default function ProductSection() {
         <GridContainer>
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
-              title="10K NFT Collection"
+              title="Growth Driver"
               description="10,000 Unique Pieces of Generative 3D Art and Music."
               icon={
                 "https://ik.imagekit.io/5ierklngtbt/img/Red_Chrome_Vn55ewCad?ik-sdk-version=javascript-1.4.3&updatedAt=1643768599156"
@@ -37,7 +37,7 @@ export default function ProductSection() {
           </GridItem>
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
-              title="Virtual Artists, Original Music"
+              title="Creative Direction"
               description="Music and Visual Media Drops. Royalties Distributed to NFT Holders."
               icon={
                 "https://ik.imagekit.io/5ierklngtbt/img/Star_LLdSyPIbfpw?ik-sdk-version=javascript-1.4.3&updatedAt=1643774062958"
@@ -48,7 +48,7 @@ export default function ProductSection() {
           </GridItem>
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
-              title="Metaverse Concerts and Live Events"
+              title="Blockchain Engineering"
               description="Virtual Music Festivals, Live Concerts and Exclusive After-parties."
               icon={
                 "https://ik.imagekit.io/5ierklngtbt/img/Blue_Chrome_OaHZDzYOM?ik-sdk-version=javascript-1.4.3&updatedAt=1643768548208"

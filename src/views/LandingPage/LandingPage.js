@@ -39,7 +39,7 @@ export default function LandingPage(props) {
       <Header
         color="transparent"
         routes={dashboardRoutes}
-        brand="Disco Astronaut Club"
+        brand="James Coholan"
         rightLinks={<HeaderLinks />}
         absolute
         {...rest}
@@ -47,30 +47,30 @@ export default function LandingPage(props) {
       <Parallax
         filter
         image={
-          "https://ik.imagekit.io/5ierklngtbt/img/DACWide_mib5GvxUw.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643766020863"
+          "https://ik.imagekit.io/mbhxghyf1m2/JCCC_m7tYQ7d7Ov9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645074955860"
         }
-        alt="Disco Astronaut Club"
+        alt="James Coholan"
       >
         <Fade duration={2000} bottom cascade>
           <div className={classes.container}>
             <GridContainer>
               <GridItem xs={12} sm={12} md={6}>
-                <h1 className={classes.title}>Disco Astronaut Club</h1>
+                <h1 className={classes.title}>James Coholan</h1>
                 <h2 className={classes.subtitle}>
-                  Your Ticket to the Greatest Festival in the Universe
+                  Driving Entertinament Franchises on the Blockchain
                 </h2>
                 <h4>A Next Generation Music-NFT Project Minting in 2022</h4>
                 <br />
                 <Button
                   color="twitter"
                   size="lg"
-                  href="https://youtu.be/ezRnFj08KlI"
+                  href="https://www.linkedin.com/in/james-coholan-262b7592/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={classes.titleButton}
                 >
                   <i className="fas fa-play" />
-                  Trailer
+                  LinkedIn
                 </Button>
                 <Button
                   color="twitter"
@@ -79,7 +79,7 @@ export default function LandingPage(props) {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Discord
+                  About Me
                 </Button>
               </GridItem>
             </GridContainer>

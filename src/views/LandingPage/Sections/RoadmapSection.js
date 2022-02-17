@@ -66,7 +66,7 @@ export default function WorkSection() {
         <GridItem cs={12} sm={12} md={8}>
           <Fade duration={1000} bottom cascade>
             <div>
-              <h1 className={classes.title}>Roadmap</h1>
+              <h1 className={classes.title}>Background</h1>
               <h4 className={classes.description}>
                 {
                   "The Disco Astronaut Club is the first on-chain, virtual native media franchise producing top of the line music, next generation visual media and art, and unforgettable live events. We are working hard to establish the DAC with a strong community and brand!"

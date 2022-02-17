@@ -72,7 +72,7 @@ export default function TeamSection() {
   );
   return (
     <div className={classes.section}>
-      <h2 className={classes.title}>The Team</h2>
+      <h2 className={classes.title}>Skills</h2>
       <div>
         <GridContainer>
           {team.map(function (member) {
