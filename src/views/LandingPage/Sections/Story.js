@@ -19,13 +19,13 @@ export default function Story() {
     <div className={classes.section}>
       <Fade duration={2000} bottom cascade>
         <GridContainer justify="center">
-          <h2 className={classes.title}>Moving Into The Future</h2>
+          <h2 className={classes.title}>Background and Future</h2>
           <br />
           <GridItem xs={12} sm={10} md={10} className={classes.sectionArea}>
             <GridItem xs={12} sm={8} md={6}>
               <h4 className={classes.description}>
                 {
-                  "The Disconauts are a group of exploratory rebels who band together, board star-ships, and blast into space in search of adventure across the universe. They are fleeing their home planet, once a place of freedom, innovation, and creative expression, which has come under the power of a ruling Overlord. Social gatherings, music, and festivals had been banned and the people there live in fear. The Disconauts oppose everything the Overlord stands for and the empire he commands."
+                  "I am incredibly passionate about the entertainment blockchain space, my goal is to develop and grow premium on-chain entertainment franchises. I believe it is the way every entertainment property will develop moving forward and I want to be a part of progressing the frontier. Some of my previous experience in the entertainment industry includes working at William Morris Endeavor, Atlantic Records, and growing a music creative agency I founded. In technology, I have been working as Creative Director/strategy and go-to-market lead at LightTwist, an early-stage Y Combinator startup over the last year."
                 }
               </h4>
             </GridItem>
@@ -33,7 +33,7 @@ export default function Story() {
               <img
                 className={classes.image}
                 src={
-                  "https://ik.imagekit.io/5ierklngtbt/img/story/Disconaut_93oDYnJ78?ik-sdk-version=javascript-1.4.3&updatedAt=1643773831802"
+                  "https://ik.imagekit.io/mbhxghyf1m2/Comp_1__0_00_00_00___Z-mqGfic.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645075649514"
                 }
                 alt="Disconaut Scene"
               />
@@ -65,7 +65,7 @@ export default function Story() {
                 )}
               >
                 {
-                  "A symbol of personal sovereignty and creative and technical expression, the music festival is the Disconauts key tool of rebellion. Strictly banned on their planet, the Disconauts use concerts as a way to prove their independence and establish their identities. Their mission, to throw the greatest festivals in the universe and establish utopian colonies in accordance with their ideals."
+                  "The NFT project I founded, Disco Astronaut Club, is a direct materialization of my goal to bring entertainment properties to the blockchain. The idea is to mint an artist and allow the community to take part in the appreciation of the brand as it expands with original music releases, and live shows. Conceptually similar to NBA Top Shop, DAC aims to mint collections of concert highlights."
                 }
               </h4>
             </GridItem>
@@ -82,7 +82,7 @@ export default function Story() {
             <GridItem xs={12} sm={8} md={6}>
               <h4 className={classes.description}>
                 {
-                  "And now, theyre landing on Earth, ready to bring incredible music and futuristic technology to experience Metaverse concerts and DAC shows taking place on distant planets. Stay tuned as the Disconauts explore the stars, find new planets and throw monumental music events. Join the space fleet on mint to join the club."
+                  "For this project, I am doing everything from engineering our minting engine, virtually producing and editing the trailer, coding the landing page, managing content strategy and 3D design teams, and establishing and executing our growth and go-to-market strategy which I developed."
                 }
               </h4>
             </GridItem>

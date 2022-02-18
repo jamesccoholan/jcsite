@@ -15,50 +15,50 @@ import styles from "assets/jss/material-kit-react/views/landingPageSections/team
 
 const team = [
   {
-    name: "James",
-    job: "Creative Director and Virtual Producer",
-    img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/2_T0dR38pVf?ik-sdk-version=javascript-1.4.3&updatedAt=1643769195521",
+    name: "AWS",
+    job: "Certified Solutions Architect Associate",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images2__fLMe4U70.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723074",
   },
   {
-    name: "Andy",
-    job: "Partnerships, Promotion and Strategy",
-    img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/3_xvb2rDJVx?ik-sdk-version=javascript-1.4.3&updatedAt=1643769156579",
+    name: "Virtual Production",
+    job: "Unreal Engine Expert",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images1_4stx-zdRZzl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724360",
   },
   {
-    name: "Ilan",
-    job: "Smart Contracts",
-    img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/4_2QbWZ8_lE?ik-sdk-version=javascript-1.4.3&updatedAt=1643773553282",
+    name: "Blockchain Engineering",
+    job: "Have succesfully minted NFT Collections",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images0_Z3xDvQ7i6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724774",
   },
   {
-    name: "Stephen",
-    job: "Web Dev and Smart Contracts",
-    img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/5_ufGRMXH-h?ik-sdk-version=javascript-1.4.3&updatedAt=1643773516872",
+    name: "Media Production",
+    job: "Video and Music Production",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images3_7mTBHrTis.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153725576",
   },
   {
-    name: "Dave",
-    job: "Content Strategist and Promotion",
-    img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/6_iaiuTA35f?ik-sdk-version=javascript-1.4.3&updatedAt=1643773577781",
+    name: "Web Development",
+    job: "Front End Web Programming Skills",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
   },
   {
-    name: "Ben",
-    job: "Music Production and Distribution",
-    img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/7_gsewDuGLM?ik-sdk-version=javascript-1.4.3&updatedAt=1643773486839",
+    name: "Strategy",
+    job: "Growth and Go-To-Market Strategy",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
   },
-  {
-    name: "Jamison",
-    job: "Franchise Development",
-    img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/11_Sy5D6Z-YW?ik-sdk-version=javascript-1.4.3&updatedAt=1643773690863",
-  },
-  {
-    name: "Dre",
-    job: "Content Strategist and Promotion",
-    img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/9_1frbXBDJw?ik-sdk-version=javascript-1.4.3&updatedAt=1643773717216",
-  },
-  {
-    name: "Alex",
-    job: "Video Production",
-    img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/12_3G5yM3e2q?ik-sdk-version=javascript-1.4.3&updatedAt=1643773632536",
-  },
+  // {
+  //   name: "Technologist",
+  //   job: "On the frontier of knowledge and understanding of next gen tech",
+  //   img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/11_Sy5D6Z-YW?ik-sdk-version=javascript-1.4.3&updatedAt=1643773690863",
+  // },
+  // {
+  //   name: "Dre",
+  //   job: "Content Strategist and Promotion",
+  //   img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/9_1frbXBDJw?ik-sdk-version=javascript-1.4.3&updatedAt=1643773717216",
+  // },
+  // {
+  //   name: "Alex",
+  //   job: "Video Production",
+  //   img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/12_3G5yM3e2q?ik-sdk-version=javascript-1.4.3&updatedAt=1643773632536",
+  // },
 ];
 
 const useStyles = makeStyles(styles);

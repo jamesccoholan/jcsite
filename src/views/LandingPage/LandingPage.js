@@ -12,7 +12,7 @@ import Footer from "components/Footer/Footer.js";
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Button from "components/CustomButtons/Button.js";
-import HeaderLinks from "components/Header/HeaderLinks.js";
+// import HeaderLinks from "components/Header/HeaderLinks.js";
 import Parallax from "components/Parallax/Parallax.js";
 import Fade from "react-reveal/Fade";
 
@@ -39,15 +39,15 @@ export default function LandingPage(props) {
       <Header
         color="transparent"
         routes={dashboardRoutes}
-        brand="James Coholan"
-        rightLinks={<HeaderLinks />}
+        // brand="James Coholan"
+        // rightLinks={<HeaderLinks />}
         absolute
         {...rest}
       />
       <Parallax
         filter
         image={
-          "https://ik.imagekit.io/mbhxghyf1m2/JCCC_m7tYQ7d7Ov9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645074955860"
+          "https://ik.imagekit.io/mbhxghyf1m2/5_F-LJu_396.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645127717346"
         }
         alt="James Coholan"
       >
@@ -75,11 +75,11 @@ export default function LandingPage(props) {
                 <Button
                   color="twitter"
                   size="lg"
-                  href="https://discord.com/invite/bKg4jryrrB"
+                  href="http://voyagela.com/interview/meet-syb-creative-los-angeles/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  About Me
+                  Article
                 </Button>
               </GridItem>
             </GridContainer>

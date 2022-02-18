@@ -29,7 +29,7 @@ export default function ProductSection() {
               title="Growth Driver"
               description="10,000 Unique Pieces of Generative 3D Art and Music."
               icon={
-                "https://ik.imagekit.io/5ierklngtbt/img/Red_Chrome_Vn55ewCad?ik-sdk-version=javascript-1.4.3&updatedAt=1643768599156"
+                "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381"
               }
               alt="Disconaut NFT"
               vertical
@@ -40,7 +40,7 @@ export default function ProductSection() {
               title="Creative Direction"
               description="Music and Visual Media Drops. Royalties Distributed to NFT Holders."
               icon={
-                "https://ik.imagekit.io/5ierklngtbt/img/Star_LLdSyPIbfpw?ik-sdk-version=javascript-1.4.3&updatedAt=1643774062958"
+                "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381"
               }
               alt="Disconaut NFT"
               vertical
@@ -51,7 +51,7 @@ export default function ProductSection() {
               title="Blockchain Engineering"
               description="Virtual Music Festivals, Live Concerts and Exclusive After-parties."
               icon={
-                "https://ik.imagekit.io/5ierklngtbt/img/Blue_Chrome_OaHZDzYOM?ik-sdk-version=javascript-1.4.3&updatedAt=1643768548208"
+                "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381"
               }
               alt="Disconaut NFT"
               vertical
