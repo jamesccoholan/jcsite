@@ -57,7 +57,7 @@ export default function LandingPage(props) {
               <GridItem xs={12} sm={12} md={6}>
                 <h1 className={classes.title}>James Coholan</h1>
                 <h2 className={classes.subtitle}>
-                  Driving Entertinament Franchises on the Blockchain
+                  Driving Entertinament Franchises on the Blockchain.
                 </h2>
                 <h4>A Next Generation Music-NFT Project Minting in 2022</h4>
                 <br />
