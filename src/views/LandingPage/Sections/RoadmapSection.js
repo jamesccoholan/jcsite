@@ -14,7 +14,7 @@ const useStyles = makeStyles(styles);
 
 const roadmapItems = [
   {
-    phase: "Disco Astronaut Club",
+    phase: "DAC",
     img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
     items: [
       {
@@ -22,6 +22,11 @@ const roadmapItems = [
           "Pushing the boundaries of entertainment on the blockchain (Pre-Launch)",
         description:
           "NFT Mint. The First On-Chain, Virtually Native Media Franchise. A higher bar for art, music and visual media. The DAC leverages advanced virtual production techniques to create radically compelling entertainment and bring the Disconauts to life. Next-Gen Immersive Virtual Media and 3D Art.",
+      },
+      {
+        title: "Virtual Concerts",
+        description:
+          "Photo-real fully immersive concert experience featuring original virtual artists minted on the blockchain.",
       },
       {
         title: "Original Music",
@@ -37,7 +42,7 @@ const roadmapItems = [
       {
         title: "Democratizing Access to High End Virtual Production",
         description:
-          "Unforgettable Live Events, VIP Access to DAC Concerts, Private Events and Destination Music Festivals. Owning a DAC NFT acts as a VIP access token to live concerts, club nights, private events, DAC club-houses, and curated destination music festivals.",
+          "LightTwist (YC 21) is a Mac app that turns your room into a customizable virtual video studio. Making virtual production tech accessible to creators on a Mac without needing special equipment or 3D game engine knowledge. We’re leveraging the Mac for real-time feedback and recording, and a powerful GPU server for higher-quality post-production and rendering using the Unreal and Unity Engines.",
       },
       {
         title: "Luxury Fashion",
@@ -67,7 +72,7 @@ export default function WorkSection() {
         <GridItem cs={12} sm={12} md={8}>
           <Fade duration={1000} bottom cascade>
             <div>
-              <h1 className={classes.title}>Projects</h1>
+              <h1 className={classes.title}>Experience</h1>
               <h4 className={classes.description}>
                 {
                   "Technology and innovation-focused former founder, product developer, project manager, and growth driver. Extensive experience across the entertainment industry, including major label, major talent agency, music & film production, and finance."

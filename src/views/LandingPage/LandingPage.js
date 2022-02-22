@@ -56,10 +56,10 @@ export default function LandingPage(props) {
             <GridContainer>
               <GridItem xs={12} sm={12} md={6}>
                 <h1 className={classes.title}>James Coholan</h1>
-                <h2 className={classes.subtitle}>
-                  Driving Entertinament Franchises on the Blockchain.
-                </h2>
-                <h4>A Next Generation Music-NFT Project Minting in 2022</h4>
+                <h2 className={classes.subtitle}>Creative Technologist</h2>
+                <h4>
+                  Project Manager, Developer, Producer, Growth Driver, Innovator
+                </h4>
                 <br />
                 <Button
                   color="twitter"
