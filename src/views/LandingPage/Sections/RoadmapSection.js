@@ -61,6 +61,47 @@ const roadmapItems = [
         description:
           "A creative media agency focused on production, distribution of next-gen media products.",
       },
+      {
+        title: "Blockchain-Native Virtual Media (pre-launch)",
+        description:
+          "NFT Mint. The First On-Chain, Virtually Native Media Franchise. A higher bar for art, music and visual media. The DAC leverages advanced virtual production techniques to create radically compelling entertainment and bring the Disconauts to life. Next-Gen Immersive Virtual Media and 3D Art.",
+      },
+      {
+        title: "Virtual Concerts",
+        description:
+          "Photo-real fully immersive concert experience featuring original virtual artists minted on the blockchain.",
+      },
+      {
+        title: "Original Music",
+        description:
+          "A Percentage of Music Royalties. Incredible Original and Generative Music. The artist as an investible asset. DAC will have original music drops that the community takes an ownership stake in. Holders will get music royalties according to the number of DAC NFTs they posses. 10,000 unique generative pieces of music will be ascribed to the NFTs.",
+      },
+    ],
+  },
+  {
+    phase: "William Morris Endeavour",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
+    items: [
+      {
+        title: "Talent Agency",
+        description:
+          "A creative media agency focused on production, distribution of next-gen media products.",
+      },
+      {
+        title: "Blockchain-Native Virtual Media (pre-launch)",
+        description:
+          "NFT Mint. The First On-Chain, Virtually Native Media Franchise. A higher bar for art, music and visual media. The DAC leverages advanced virtual production techniques to create radically compelling entertainment and bring the Disconauts to life. Next-Gen Immersive Virtual Media and 3D Art.",
+      },
+      {
+        title: "Virtual Concerts",
+        description:
+          "Photo-real fully immersive concert experience featuring original virtual artists minted on the blockchain.",
+      },
+      {
+        title: "Original Music",
+        description:
+          "A Percentage of Music Royalties. Incredible Original and Generative Music. The artist as an investible asset. DAC will have original music drops that the community takes an ownership stake in. Holders will get music royalties according to the number of DAC NFTs they posses. 10,000 unique generative pieces of music will be ascribed to the NFTs.",
+      },
     ],
   },
 ];

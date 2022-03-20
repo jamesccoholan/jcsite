@@ -19,8 +19,30 @@ const team = [
     job: "Certified Solutions Architect Associate",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images2__fLMe4U70.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723074",
     link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
+      <a
+        href="https://www.discoastronautclub.com/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Website
+      </a>
+    ),
+    link2: (
+      <a
+        href="https://testnets.opensea.io/collection/dactestcollection"
+        rel="noreferrer"
+        target="_blank"
+      >
+        OpenSea
+      </a>
+    ),
+    link3: (
+      <a
+        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Trailer
       </a>
     ),
   },
@@ -29,8 +51,30 @@ const team = [
     job: "Unreal Engine Expert",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images1_4stx-zdRZzl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724360",
     link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
+      <a
+        href="https://www.discoastronautclub.com/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Website
+      </a>
+    ),
+    link2: (
+      <a
+        href="https://testnets.opensea.io/collection/dactestcollection"
+        rel="noreferrer"
+        target="_blank"
+      >
+        OpenSea
+      </a>
+    ),
+    link3: (
+      <a
+        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Trailer
       </a>
     ),
   },
@@ -39,8 +83,30 @@ const team = [
     job: "Have succesfully minted NFT Collections",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images0_Z3xDvQ7i6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724774",
     link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
+      <a
+        href="https://www.discoastronautclub.com/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Website
+      </a>
+    ),
+    link2: (
+      <a
+        href="https://testnets.opensea.io/collection/dactestcollection"
+        rel="noreferrer"
+        target="_blank"
+      >
+        OpenSea
+      </a>
+    ),
+    link3: (
+      <a
+        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Trailer
       </a>
     ),
   },
@@ -49,8 +115,30 @@ const team = [
     job: "Video and Music Production",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images3_7mTBHrTis.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153725576",
     link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
+      <a
+        href="https://www.discoastronautclub.com/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Website
+      </a>
+    ),
+    link2: (
+      <a
+        href="https://testnets.opensea.io/collection/dactestcollection"
+        rel="noreferrer"
+        target="_blank"
+      >
+        OpenSea
+      </a>
+    ),
+    link3: (
+      <a
+        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Trailer
       </a>
     ),
   },
@@ -59,8 +147,30 @@ const team = [
     job: "Front End Web Programming",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
     link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
+      <a
+        href="https://www.discoastronautclub.com/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Website
+      </a>
+    ),
+    link2: (
+      <a
+        href="https://testnets.opensea.io/collection/dactestcollection"
+        rel="noreferrer"
+        target="_blank"
+      >
+        OpenSea
+      </a>
+    ),
+    link3: (
+      <a
+        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Trailer
       </a>
     ),
   },
@@ -69,8 +179,30 @@ const team = [
     job: "Growth and Go-To-Market Strategy",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
     link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
+      <a
+        href="https://www.discoastronautclub.com/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Website
+      </a>
+    ),
+    link2: (
+      <a
+        href="https://testnets.opensea.io/collection/dactestcollection"
+        rel="noreferrer"
+        target="_blank"
+      >
+        OpenSea
+      </a>
+    ),
+    link3: (
+      <a
+        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Trailer
       </a>
     ),
   },
@@ -122,6 +254,10 @@ export default function TeamSection() {
                     <small className={classes.smallTitle}>{member.job}</small>
                     <br />
                     <small className={classes.smallTitle}>{member.link}</small>
+                    &nbsp;&emsp;
+                    <small className={classes.smallTitle}>{member.link2}</small>
+                    &nbsp;&emsp;
+                    <small className={classes.smallTitle}>{member.link3}</small>
                   </h4>
                   <CardBody></CardBody>
                   <CardFooter className={classes.justifyCenter}></CardFooter>

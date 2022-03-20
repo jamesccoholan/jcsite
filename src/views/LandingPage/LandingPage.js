@@ -70,7 +70,7 @@ export default function LandingPage(props) {
                   rel="noopener noreferrer"
                   className={classes.titleButton}
                 >
-                  <i className="fas fa-play" />
+                  {/* <i className="fas fa-play" /> */}
                   LinkedIn
                 </Button>
                 <Button
@@ -79,6 +79,7 @@ export default function LandingPage(props) {
                   href="http://voyagela.com/interview/meet-syb-creative-los-angeles/"
                   target="_blank"
                   rel="noopener noreferrer"
+                  className={classes.titleButton}
                 >
                   Article
                 </Button>
@@ -88,6 +89,7 @@ export default function LandingPage(props) {
                   href="https://github.com/jamesccoholan"
                   target="_blank"
                   rel="noopener noreferrer"
+                  className={classes.titleButton}
                 >
                   Github
                 </Button>
