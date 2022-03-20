@@ -80,7 +80,7 @@ export default function LandingPage(props) {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Article!
+                  Article
                 </Button>
                 <Button
                   color="twitter"
