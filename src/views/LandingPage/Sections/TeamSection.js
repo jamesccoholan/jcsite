@@ -193,7 +193,7 @@ const team = [
         rel="noreferrer"
         target="_blank"
       >
-        OpenSea
+        Whitepaper
       </a>
     ),
     link3: (
