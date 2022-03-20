@@ -16,7 +16,7 @@ import styles from "assets/jss/material-kit-react/views/landingPageSections/team
 const team = [
   {
     name: "DAC",
-    job: "Certified Solutions Architect Associate",
+    job: "10K NFT Project",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images2__fLMe4U70.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723074",
     link: (
       <a
@@ -47,12 +47,12 @@ const team = [
     ),
   },
   {
-    name: "Diamond Bulls Brigade",
-    job: "Unreal Engine Expert",
+    name: "Agora",
+    job: "Unreal Engine Virtual Concerts",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images1_4stx-zdRZzl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724360",
     link: (
       <a
-        href="https://www.discoastronautclub.com/"
+        href="https://www.experienceagora.com/"
         rel="noreferrer"
         target="_blank"
       >
@@ -61,16 +61,16 @@ const team = [
     ),
     link2: (
       <a
-        href="https://testnets.opensea.io/collection/dactestcollection"
+        href="https://www.linkedin.com/pulse/agora-white-paper-james-coholan/"
         rel="noreferrer"
         target="_blank"
       >
-        OpenSea
+        Whitepaper
       </a>
     ),
     link3: (
       <a
-        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+        href="https://www.youtube.com/watch?v=QeVeqU00p7M"
         rel="noreferrer"
         target="_blank"
       >
@@ -79,7 +79,7 @@ const team = [
     ),
   },
   {
-    name: "Blockchain",
+    name: "Music",
     job: "Have succesfully minted NFT Collections",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images0_Z3xDvQ7i6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724774",
     link: (
@@ -175,7 +175,7 @@ const team = [
     ),
   },
   {
-    name: "Strategy",
+    name: "Published Music",
     job: "Growth and Go-To-Market Strategy",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
     link: (
@@ -234,7 +234,7 @@ export default function TeamSection() {
   );
   return (
     <div className={classes.section}>
-      <h2 className={classes.title}>Portfolio Projects</h2>
+      <h2 className={classes.title}>Project Showcase</h2>
       <div>
         <GridContainer>
           {team.map(function (member) {
