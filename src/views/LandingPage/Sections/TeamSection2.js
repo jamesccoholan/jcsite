@@ -15,64 +15,34 @@ import styles from "assets/jss/material-kit-react/views/landingPageSections/team
 
 const team = [
   {
-    name: "DAC",
+    name: "AWS",
     job: "Certified Solutions Architect Associate",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images2__fLMe4U70.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723074",
-    link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
-      </a>
-    ),
   },
   {
-    name: "Diamond Bulls Brigade",
+    name: "Virtual Production",
     job: "Unreal Engine Expert",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images1_4stx-zdRZzl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724360",
-    link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
-      </a>
-    ),
   },
   {
     name: "Blockchain",
     job: "Have succesfully minted NFT Collections",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images0_Z3xDvQ7i6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724774",
-    link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
-      </a>
-    ),
   },
   {
     name: "Media Production",
     job: "Video and Music Production",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images3_7mTBHrTis.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153725576",
-    link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
-      </a>
-    ),
   },
   {
     name: "Web Development",
     job: "Front End Web Programming",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
-    link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
-      </a>
-    ),
   },
   {
     name: "Strategy",
     job: "Growth and Go-To-Market Strategy",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
-    link: (
-      <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
-        Link
-      </a>
-    ),
   },
   // {
   //   name: "Technologist",
@@ -93,7 +63,7 @@ const team = [
 
 const useStyles = makeStyles(styles);
 
-export default function TeamSection() {
+export default function TeamSection2() {
   const classes = useStyles();
   const imageClasses = classNames(
     classes.imgRaised,
@@ -102,7 +72,7 @@ export default function TeamSection() {
   );
   return (
     <div className={classes.section}>
-      <h2 className={classes.title}>Portfolio Projects</h2>
+      <h2 className={classes.title}>Skills</h2>
       <div>
         <GridContainer>
           {team.map(function (member) {
@@ -120,8 +90,6 @@ export default function TeamSection() {
                     {member.name}
                     <br />
                     <small className={classes.smallTitle}>{member.job}</small>
-                    <br />
-                    <small className={classes.smallTitle}>{member.link}</small>
                   </h4>
                   <CardBody></CardBody>
                   <CardFooter className={classes.justifyCenter}></CardFooter>

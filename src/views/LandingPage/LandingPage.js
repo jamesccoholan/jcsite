@@ -19,12 +19,13 @@ import Fade from "react-reveal/Fade";
 import styles from "assets/jss/material-kit-react/views/landingPage.js";
 
 // Sections for this page
-import ProductSection from "./Sections/ProductSection.js";
+// import ProductSection from "./Sections/ProductSection.js";
 import VideoSection from "./Sections/VideoSection.js";
 import TeamSection from "./Sections/TeamSection.js";
 import WorkSection from "./Sections/RoadmapSection.js";
 import Gallery from "./Sections/Gallery.js";
 import Story from "./Sections/Story.js";
+import TeamSection2 from "./Sections/TeamSection2.js";
 // import FAQ from "./Sections/FAQ.js";
 
 const dashboardRoutes = [];
@@ -81,6 +82,15 @@ export default function LandingPage(props) {
                 >
                   Article
                 </Button>
+                <Button
+                  color="twitter"
+                  size="lg"
+                  href="https://github.com/jamesccoholan"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Github
+                </Button>
               </GridItem>
             </GridContainer>
           </div>
@@ -88,7 +98,7 @@ export default function LandingPage(props) {
       </Parallax>
       <div className={classNames(classes.main, classes.mainRaised)}>
         <div className={classes.container}>
-          <ProductSection />
+          <TeamSection />
         </div>
       </div>
       <div>
@@ -102,7 +112,7 @@ export default function LandingPage(props) {
         <Story />
         <div className={classNames(classes.main, classes.mainRaised)}>
           <div className={classes.container}>
-            <TeamSection />
+            <TeamSection2 />
           </div>
         </div>
       </div>

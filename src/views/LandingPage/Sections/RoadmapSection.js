@@ -10,6 +10,8 @@ import Fade from "react-reveal/Fade";
 
 import styles from "assets/jss/material-kit-react/views/landingPageSections/roadmapStyle";
 
+// import HeaderLinks from "components/Header/HeaderLinks.js";
+
 const useStyles = makeStyles(styles);
 
 const roadmapItems = [
@@ -18,8 +20,7 @@ const roadmapItems = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
     items: [
       {
-        title:
-          "Pushing the boundaries of entertainment on the blockchain (Pre-Launch)",
+        title: "Blockchain-Native Virtual Media (pre-launch)",
         description:
           "NFT Mint. The First On-Chain, Virtually Native Media Franchise. A higher bar for art, music and visual media. The DAC leverages advanced virtual production techniques to create radically compelling entertainment and bring the Disconauts to life. Next-Gen Immersive Virtual Media and 3D Art.",
       },
@@ -45,7 +46,7 @@ const roadmapItems = [
           "LightTwist (YC 21) is a Mac app that turns your room into a customizable virtual video studio. Making virtual production tech accessible to creators on a Mac without needing special equipment or 3D game engine knowledge. We’re leveraging the Mac for real-time feedback and recording, and a powerful GPU server for higher-quality post-production and rendering using the Unreal and Unity Engines.",
       },
       {
-        title: "Luxury Fashion",
+        title: "Responsibilities",
         description:
           "Access to Exclusive and Limited Edition Luxury Fashion Merchandise. Each Disconaut has a unique look that leans into various sub-genres of music culture. Own the physical merchandise of your on-chain NFT.",
       },
@@ -58,7 +59,7 @@ const roadmapItems = [
       {
         title: "Media Production and Live Events",
         description:
-          "The full festival experience, virtualized. First Access to Our Virtual Concert Platform Virtualized Music Festivals; custom light shows and visuals, live DJ Sets, and larger than life venues. Accessible through streaming services and VR. NFT Staking to Accumulate a Social and Governance Token, Giving the Holder Increasing Voting Rights in Project Activities and Access to Future Whitelists.",
+          "A creative media agency focused on production, distribution of next-gen media products.",
       },
     ],
   },
@@ -77,9 +78,12 @@ export default function WorkSection() {
                 {
                   "Technology and innovation-focused former founder, product developer, project manager, and growth driver. Extensive experience across the entertainment industry, including major label, major talent agency, music & film production, and finance."
                 }
+                {/* <HeaderLinks /> */}
+                <h1 />
               </h4>
             </div>
           </Fade>
+
           <div className={classes.roadmapContainer}>
             {roadmapItems.map((r) => (
               <Fade duration={1000} bottom cascade key={r.phase}>
