@@ -19,13 +19,14 @@ export default function Story() {
     <div className={classes.section}>
       <Fade duration={2000} bottom cascade>
         <GridContainer justify="center">
-          <h1 className={classes.title}>Overview/Background</h1>
+          <br />
+          <h1 className={classes.title}></h1>
           <br />
           <GridItem xs={12} sm={10} md={10} className={classes.sectionArea}>
             <GridItem xs={12} sm={8} md={6}>
               <h4 className={classes.description}>
                 {
-                  "I am incredibly passionate about the entertainment blockchain space, my goal is to develop and grow premium on-chain entertainment franchises. I believe it is the way every entertainment property will develop moving forward and I want to be a part of progressing the frontier. Some of my previous experience in the entertainment industry includes working at William Morris Endeavor, Atlantic Records, and growing a music creative agency I founded. In technology, I have been working as Creative Director/strategy and go-to-market lead at LightTwist, an early-stage Y Combinator startup over the last year."
+                  "I am incredibly passionate about the blockchain space, my goal is to develop and grow premium on-chain entertainment franchises. I believe it is the way every entertainment property will develop moving forward and I want to be a part of progressing the frontier. Some of my previous experience in the entertainment industry includes working at William Morris Endeavor, Atlantic Records, and growing a music creative agency I founded. In technology, I have been working as Creative Director/strategy and go-to-market lead at LightTwist, an early-stage Y Combinator startup over the last year."
                 }
               </h4>
             </GridItem>
@@ -33,7 +34,7 @@ export default function Story() {
               <img
                 className={classes.image}
                 src={
-                  "https://ik.imagekit.io/mbhxghyf1m2/Comp_1__0_00_00_00___Z-mqGfic.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645075649514"
+                  "https://ik.imagekit.io/mbhxghyf1m2/pexels-lenin-estrada-2569997_OUtfXc1uS.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1647981808148"
                 }
                 alt="Disconaut Scene"
               />
@@ -52,7 +53,7 @@ export default function Story() {
               <img
                 className={classes.image}
                 src={
-                  "https://ik.imagekit.io/5ierklngtbt/img/story/Gathering_iNsmL3lE3fp?ik-sdk-version=javascript-1.4.3&updatedAt=1643773858123"
+                  "https://ik.imagekit.io/mbhxghyf1m2/pexels-pixabay-247676_tWZWSc6vl.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1647981922587"
                 }
                 alt="Gathering Scene"
               />
@@ -82,7 +83,7 @@ export default function Story() {
             <GridItem xs={12} sm={8} md={6}>
               <h4 className={classes.description}>
                 {
-                  "For this project, I am doing everything from engineering our minting engine, virtually producing and editing the trailer, coding the landing page, managing content strategy and 3D design teams, and establishing and executing our growth and go-to-market strategy which I developed."
+                  "For this project, I am engineering our minting engine, virtually producing and editing our trailer, developing the landing page, managing content strategy and 3D design teams, and establishing and executing our growth and go-to-market strategy."
                 }
               </h4>
             </GridItem>

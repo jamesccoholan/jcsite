@@ -38,9 +38,10 @@ export default function Gallery() {
               </GridItem>
             </Card>
           </GridItem>
+          {/* <h3>JamesCoholan@Gmail.com</h3> */}
           <GridItem xs={12} sm={12} md={4}>
             <Card plain>
-              <GridItem xs={100} sm={100} md={100} className={classes.itemGrid}>
+              {/* <GridItem xs={100} sm={100} md={100} className={classes.itemGrid}>
                 <img
                   src={
                     "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/9_nn8PuGDK0?ik-sdk-version=javascript-1.4.3&updatedAt=1643834347824"
@@ -48,13 +49,17 @@ export default function Gallery() {
                   alt="Disconaut Suit"
                   className={imageClasses}
                 />
-              </GridItem>
+              </GridItem> */}
+              <h3></h3>
+              <br />
+              <h3></h3>
+              <br />
               <h3>JamesCoholan@Gmail.com</h3>
             </Card>
           </GridItem>
           <GridItem xs={12} sm={12} md={4}>
             <Card plain>
-              <GridItem xs={100} sm={100} md={100} className={classes.itemGrid}>
+              {/* <GridItem xs={100} sm={100} md={100} className={classes.itemGrid}>
                 <img
                   src={
                     "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/14_c2NJaspPcQM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643834233162"
@@ -62,7 +67,7 @@ export default function Gallery() {
                   alt="Disconaut Suit"
                   className={imageClasses}
                 />
-              </GridItem>
+              </GridItem> */}
             </Card>
           </GridItem>
         </GridContainer>
