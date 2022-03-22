@@ -71,7 +71,7 @@ const team = [
   },
   {
     name: "Agora",
-    job: "Unreal Engine Virtual Concerts",
+    job: "Virtual Concerts - Unreal Engine",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-03-22_at_11.18.15_AM_BaIjp77Pj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647973190387",
     link: (
       <a
@@ -108,7 +108,7 @@ const team = [
   },
   {
     name: "Diamond Bull Brigade",
-    job: "Animated NFTs",
+    job: "Photo-Real, Animated NFTs",
     img: "https://ik.imagekit.io/mbhxghyf1m2/RBRIGHT_CUFZWa5HN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893971111",
     // link: (
     //   <a
@@ -134,7 +134,7 @@ const team = [
         rel="noreferrer"
         target="_blank"
       >
-        Etherscan
+        Etherscan Contract
       </a>
     ),
   },
@@ -248,9 +248,9 @@ export default function TeamSection() {
   return (
     <div className={classes.section}>
       <h2 className={classes.title}>Projects</h2>
-      <h4 className={classes.title}>
-        Focused on innovation in virtual production (Unreal Engine), Web 3,
-        NFTs, and the creator economy. Blockchain / Web3 Engineer and Developer,
+      <h4 className={classes.smallTitle}>
+        Focused on innovation in virtual production (Metaverse), Web 3, NFTs,
+        and the creator economy. Blockchain / Web3 Engineer and Developer,
         Certified AWS Solutions Architect Associate.
       </h4>
       <div>

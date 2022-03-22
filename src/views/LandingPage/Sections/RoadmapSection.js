@@ -20,19 +20,14 @@ const roadmapItems = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
     items: [
       {
-        title: "Blockchain-Native Virtual Media (pre-launch)",
+        title: "Founder - Blockchain-Native Virtual Media (pre-launch)",
         description:
-          "NFT Mint. The First On-Chain, Virtually Native Media Franchise. A higher bar for art, music and visual media. The DAC leverages advanced virtual production techniques to create radically compelling entertainment and bring the Disconauts to life. Next-Gen Immersive Virtual Media and 3D Art.",
+          "Music-focused NFT project lead developer.Growth and go-to-market strategy lead, Project manager leading a group of 12 including content strategy, music production and 3D design teams. Core blockchain engineer and landing page developer. Scalable photo-real 3D generative art developer. Virtual production (Unreal Engine) and promotional materials editor. Virtual concert producer.",
       },
       {
-        title: "Virtual Concerts",
+        title: "Virtual Concerts & Original Music",
         description:
-          "Photo-real fully immersive concert experience featuring original virtual artists minted on the blockchain.",
-      },
-      {
-        title: "Original Music",
-        description:
-          "A Percentage of Music Royalties. Incredible Original and Generative Music. The artist as an investible asset. DAC will have original music drops that the community takes an ownership stake in. Holders will get music royalties according to the number of DAC NFTs they posses. 10,000 unique generative pieces of music will be ascribed to the NFTs.",
+          "Photo-real fully immersive concert experience featuring original virtual artists minted on the blockchain. NFT Mint. The First On-Chain, Virtually Native Media Franchise. A higher bar for art, music and visual media. The DAC leverages advanced virtual production techniques to create radically compelling entertainment and bring the Disconauts to life. Next-Gen Immersive Virtual Media and 3D Art.A Percentage of Music Royalties. Incredible Original and Generative Music. The artist as an investible asset. DAC will have original music drops that the community takes an ownership stake in. Holders will get music royalties according to the number of DAC NFTs they posses. 10,000 unique generative pieces of music will be ascribed to the NFTs.",
       },
     ],
   },
@@ -41,14 +36,14 @@ const roadmapItems = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
     items: [
       {
-        title: "(YC 21) Democratizing Access to High End Virtual Production",
+        title: "Founding Creative Director",
         description:
           "LightTwist (YC 21) is a Mac app that turns your room into a customizable virtual video studio. Making virtual production tech accessible to creators on a Mac without needing special equipment or 3D game engine knowledge. We’re leveraging the Mac for real-time feedback and recording, and a powerful GPU server for higher-quality post-production and rendering using the Unreal and Unity Engines.",
       },
       {
-        title: "Founding Creative Director",
+        title: "(YC 21) Democratizing Access to High End Virtual Production",
         description:
-          "Media development, work with partners, demos, video production.",
+          "Virtual production and creative direction. Go-to-market strategy, evaluating alpha user experiences to inform engineering and product release initiatives. Technical product management, automated a cloud-native AI video segmentation workflow. Alpha user growth strategist, a growing wait-list of over 1,000 early product access sign-ups. Social media video content producer and strategist. Product development, working with engineers and designers to implement features.",
       },
     ],
   },
@@ -57,24 +52,14 @@ const roadmapItems = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
     items: [
       {
-        title: "Media Production and Live Events",
+        title: "Founder",
         description:
           "A creative media agency focused on production, distribution of next-gen media products.",
       },
       {
-        title: "Blockchain-Native Virtual Media (pre-launch)",
+        title: "Media Production and Live Events",
         description:
-          "NFT Mint. The First On-Chain, Virtually Native Media Franchise. A higher bar for art, music and visual media. The DAC leverages advanced virtual production techniques to create radically compelling entertainment and bring the Disconauts to life. Next-Gen Immersive Virtual Media and 3D Art.",
-      },
-      {
-        title: "Virtual Concerts",
-        description:
-          "Photo-real fully immersive concert experience featuring original virtual artists minted on the blockchain.",
-      },
-      {
-        title: "Original Music",
-        description:
-          "A Percentage of Music Royalties. Incredible Original and Generative Music. The artist as an investible asset. DAC will have original music drops that the community takes an ownership stake in. Holders will get music royalties according to the number of DAC NFTs they posses. 10,000 unique generative pieces of music will be ascribed to the NFTs.",
+          "Digital and virtual media development, production, promotion and distribution. 60% quarter-over-quarter engagement growth through sales partnerships and data-driven digital marketing campaigns. Music streaming and live ticket sales growth strategist. Promotion for live events generating hundreds of thousands of dollars of revenue for multiple stakeholders. (Sold out events include Warwick Halloween, Sofitel at Beverly Hills New Years, The Troubadour, etc.) Coordinated operations between advertising platforms, management teams, concert promoters, digital distribution channels, product designers & manufacturers.",
       },
     ],
   },
@@ -83,24 +68,9 @@ const roadmapItems = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
     items: [
       {
-        title: "Talent Agency",
+        title: "Music Department",
         description:
-          "A creative media agency focused on production, distribution of next-gen media products.",
-      },
-      {
-        title: "Blockchain-Native Virtual Media (pre-launch)",
-        description:
-          "NFT Mint. The First On-Chain, Virtually Native Media Franchise. A higher bar for art, music and visual media. The DAC leverages advanced virtual production techniques to create radically compelling entertainment and bring the Disconauts to life. Next-Gen Immersive Virtual Media and 3D Art.",
-      },
-      {
-        title: "Virtual Concerts",
-        description:
-          "Photo-real fully immersive concert experience featuring original virtual artists minted on the blockchain.",
-      },
-      {
-        title: "Original Music",
-        description:
-          "A Percentage of Music Royalties. Incredible Original and Generative Music. The artist as an investible asset. DAC will have original music drops that the community takes an ownership stake in. Holders will get music royalties according to the number of DAC NFTs they posses. 10,000 unique generative pieces of music will be ascribed to the NFTs.",
+          "Experience contracting performance offers, sales figure report curation and managing artist target calendars, and master schedules. Generated artist and company performance reports using streaming and financial analytics to optimize international bookings and new act acquisition. Deal contracted Calvin Harris 1.5 million dollar Ibiza 2019 summer residency as well as million dollar plus international deals for Bruno Mars and The Weeknd.",
       },
     ],
   },

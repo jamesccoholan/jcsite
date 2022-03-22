@@ -19,7 +19,7 @@ export default function Story() {
     <div className={classes.section}>
       <Fade duration={2000} bottom cascade>
         <GridContainer justify="center">
-          <h2 className={classes.title}>About</h2>
+          <h1 className={classes.title}>Overview/Background</h1>
           <br />
           <GridItem xs={12} sm={10} md={10} className={classes.sectionArea}>
             <GridItem xs={12} sm={8} md={6}>

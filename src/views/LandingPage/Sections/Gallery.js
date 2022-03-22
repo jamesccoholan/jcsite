@@ -49,6 +49,7 @@ export default function Gallery() {
                   className={imageClasses}
                 />
               </GridItem>
+              <h3>JamesCoholan@Gmail.com</h3>
             </Card>
           </GridItem>
           <GridItem xs={12} sm={12} md={4}>
