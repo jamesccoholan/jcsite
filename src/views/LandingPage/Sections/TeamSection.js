@@ -17,7 +17,7 @@ const team = [
   {
     name: "DAC",
     job: "10K NFT Project",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images2__fLMe4U70.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723074",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/DAC_117_7HAFJPCDx.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893991321",
     link: (
       <a
         href="https://www.discoastronautclub.com/"
@@ -29,7 +29,7 @@ const team = [
     ),
     link2: (
       <a
-        href="https://testnets.opensea.io/collection/dactestcollection"
+        href="https://testnets.opensea.io/collection/daclarge"
         rel="noreferrer"
         target="_blank"
       >
@@ -45,11 +45,34 @@ const team = [
         Trailer
       </a>
     ),
+    link4: (
+      <a href="https://dacmint.netlify.app/" rel="noreferrer" target="_blank">
+        Minting Dapp
+      </a>
+    ),
+    link5: (
+      <a
+        href="https://rinkeby.etherscan.io/address/0x36FB97aC78767502488725480614eEFF78668d39#code"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Etherscan Contract
+      </a>
+    ),
+    link6: (
+      <a
+        href="https://docsend.com/view/6ntxgs7f8iab6hxc"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Deck
+      </a>
+    ),
   },
   {
     name: "Agora",
     job: "Unreal Engine Virtual Concerts",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images1_4stx-zdRZzl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724360",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-03-22_at_11.18.15_AM_BaIjp77Pj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647973190387",
     link: (
       <a
         href="https://www.experienceagora.com/"
@@ -77,149 +100,139 @@ const team = [
         Trailer
       </a>
     ),
-  },
-  {
-    name: "Music",
-    job: "Have succesfully minted NFT Collections",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images0_Z3xDvQ7i6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724774",
-    link: (
-      <a
-        href="https://www.discoastronautclub.com/"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Website
-      </a>
-    ),
-    link2: (
-      <a
-        href="https://testnets.opensea.io/collection/dactestcollection"
-        rel="noreferrer"
-        target="_blank"
-      >
-        OpenSea
-      </a>
-    ),
-    link3: (
-      <a
-        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Trailer
+    link4: (
+      <a href="https://youtu.be/Xak8aGTgMTo" rel="noreferrer" target="_blank">
+        Demo
       </a>
     ),
   },
   {
-    name: "Media Production",
-    job: "Video and Music Production",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images3_7mTBHrTis.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153725576",
-    link: (
-      <a
-        href="https://www.discoastronautclub.com/"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Website
-      </a>
-    ),
+    name: "Diamond Bull Brigade",
+    job: "Animated NFTs",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/RBRIGHT_CUFZWa5HN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893971111",
+    // link: (
+    //   <a
+    //     href="https://www.discoastronautclub.com/"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Website
+    //   </a>
+    // ),
     link2: (
       <a
-        href="https://testnets.opensea.io/collection/dactestcollection"
+        href="https://testnets.opensea.io/collection/dbb"
         rel="noreferrer"
         target="_blank"
       >
-        OpenSea
+        OpenSea Collection
       </a>
     ),
     link3: (
       <a
-        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+        href="https://rinkeby.etherscan.io/address/0xc2746B9960120d7976E16159b5f890eeC1253ABF#code"
         rel="noreferrer"
         target="_blank"
       >
-        Trailer
-      </a>
-    ),
-  },
-  {
-    name: "Web Development",
-    job: "Front End Web Programming",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
-    link: (
-      <a
-        href="https://www.discoastronautclub.com/"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Website
-      </a>
-    ),
-    link2: (
-      <a
-        href="https://testnets.opensea.io/collection/dactestcollection"
-        rel="noreferrer"
-        target="_blank"
-      >
-        OpenSea
-      </a>
-    ),
-    link3: (
-      <a
-        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Trailer
-      </a>
-    ),
-  },
-  {
-    name: "Published Music",
-    job: "Growth and Go-To-Market Strategy",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
-    link: (
-      <a
-        href="https://www.discoastronautclub.com/"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Website
-      </a>
-    ),
-    link2: (
-      <a
-        href="https://testnets.opensea.io/collection/dactestcollection"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Whitepaper
-      </a>
-    ),
-    link3: (
-      <a
-        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Trailer
+        Etherscan
       </a>
     ),
   },
   // {
-  //   name: "Technologist",
-  //   job: "On the frontier of knowledge and understanding of next gen tech",
-  //   img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/11_Sy5D6Z-YW?ik-sdk-version=javascript-1.4.3&updatedAt=1643773690863",
+  //   name: "Media Production",
+  //   job: "Video and Music Production",
+  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images3_7mTBHrTis.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153725576",
+  //   link: (
+  //     <a
+  //       href="https://www.discoastronautclub.com/"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Website
+  //     </a>
+  //   ),
+  //   link2: (
+  //     <a
+  //       href="https://testnets.opensea.io/collection/dactestcollection"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       OpenSea
+  //     </a>
+  //   ),
+  //   link3: (
+  //     <a
+  //       href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Trailer
+  //     </a>
+  //   ),
   // },
   // {
-  //   name: "Dre",
-  //   job: "Content Strategist and Promotion",
-  //   img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/9_1frbXBDJw?ik-sdk-version=javascript-1.4.3&updatedAt=1643773717216",
+  //   name: "Web Development",
+  //   job: "Front End Web Programming",
+  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
+  //   link: (
+  //     <a
+  //       href="https://www.discoastronautclub.com/"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Website
+  //     </a>
+  //   ),
+  //   link2: (
+  //     <a
+  //       href="https://testnets.opensea.io/collection/dactestcollection"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       OpenSea
+  //     </a>
+  //   ),
+  //   link3: (
+  //     <a
+  //       href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Trailer
+  //     </a>
+  //   ),
   // },
   // {
-  //   name: "Alex",
-  //   job: "Video Production",
-  //   img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/12_3G5yM3e2q?ik-sdk-version=javascript-1.4.3&updatedAt=1643773632536",
+  //   name: "Published Music",
+  //   job: "Growth and Go-To-Market Strategy",
+  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
+  //   link: (
+  //     <a
+  //       href="https://www.discoastronautclub.com/"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Website
+  //     </a>
+  //   ),
+  //   link2: (
+  //     <a
+  //       href="https://testnets.opensea.io/collection/dactestcollection"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Whitepaper
+  //     </a>
+  //   ),
+  //   link3: (
+  //     <a
+  //       href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Trailer
+  //     </a>
+  //   ),
   // },
 ];
 
@@ -234,7 +247,12 @@ export default function TeamSection() {
   );
   return (
     <div className={classes.section}>
-      <h2 className={classes.title}>Project Showcase</h2>
+      <h2 className={classes.title}>Projects</h2>
+      <h4 className={classes.title}>
+        Focused on innovation in virtual production (Unreal Engine), Web 3,
+        NFTs, and the creator economy. Blockchain / Web3 Engineer and Developer,
+        Certified AWS Solutions Architect Associate.
+      </h4>
       <div>
         <GridContainer>
           {team.map(function (member) {
@@ -258,6 +276,12 @@ export default function TeamSection() {
                     <small className={classes.smallTitle}>{member.link2}</small>
                     &nbsp;&emsp;
                     <small className={classes.smallTitle}>{member.link3}</small>
+                    <br />
+                    <small className={classes.smallTitle}>{member.link4}</small>
+                    &nbsp;&emsp;
+                    <small className={classes.smallTitle}>{member.link5}</small>
+                    &nbsp;&emsp;
+                    <small className={classes.smallTitle}>{member.link6}</small>
                   </h4>
                   <CardBody></CardBody>
                   <CardFooter className={classes.justifyCenter}></CardFooter>

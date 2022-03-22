@@ -41,14 +41,14 @@ const roadmapItems = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
     items: [
       {
-        title: "Democratizing Access to High End Virtual Production",
+        title: "(YC 21) Democratizing Access to High End Virtual Production",
         description:
           "LightTwist (YC 21) is a Mac app that turns your room into a customizable virtual video studio. Making virtual production tech accessible to creators on a Mac without needing special equipment or 3D game engine knowledge. We’re leveraging the Mac for real-time feedback and recording, and a powerful GPU server for higher-quality post-production and rendering using the Unreal and Unity Engines.",
       },
       {
-        title: "Responsibilities",
+        title: "Founding Creative Director",
         description:
-          "Access to Exclusive and Limited Edition Luxury Fashion Merchandise. Each Disconaut has a unique look that leans into various sub-genres of music culture. Own the physical merchandise of your on-chain NFT.",
+          "Media development, work with partners, demos, video production.",
       },
     ],
   },
