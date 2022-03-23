@@ -22,7 +22,7 @@ const roadmapItems = [
       {
         title: "Founder - Blockchain-Native Virtual Media (pre-launch)",
         description:
-          "Music-focused NFT project lead developer.Growth and go-to-market strategy lead, Project manager leading a group of 12 including content strategy, music production and 3D design teams. Core blockchain engineer and landing page developer. Scalable photo-real 3D generative art developer. Virtual production (Unreal Engine) and promotional materials editor. Virtual concert producer.",
+          "Music-focused NFT project lead developer. Growth and go-to-market strategy lead, Project manager leading a group of 12 including content strategy, music production and 3D design teams. Core blockchain engineer and landing page developer. Scalable photo-real 3D generative art developer. Virtual production (Unreal Engine) and promotional materials editor. Virtual concert producer.",
       },
       {
         title: "Virtual Concerts & Original Music",

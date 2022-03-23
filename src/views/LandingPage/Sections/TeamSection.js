@@ -249,9 +249,9 @@ export default function TeamSection() {
     <div className={classes.section}>
       <h2 className={classes.title}>Projects</h2>
       <h4 className={classes.smallTitle}>
-        Focused on innovation in virtual production (Metaverse), Web 3, NFTs,
-        and the creator economy. Blockchain / Web3 Engineer and Developer,
-        Certified AWS Solutions Architect Associate.
+        Focused on innovation in virtual production (Metaverse), Web3, NFTs, and
+        the creator economy. Full Stack Blockchain Developer & Certified AWS
+        Solutions Architect.
       </h4>
       <div>
         <GridContainer>

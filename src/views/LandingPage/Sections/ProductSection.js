@@ -18,7 +18,7 @@ export default function ProductSection() {
       <GridContainer justify="center">
         <GridItem xs={12} sm={12} md={8}>
           <h2 className={classes.title}>
-            Driving Entertinament Franchises on the Blockchain
+            Driving Entertainment Franchises on the Blockchain
           </h2>
         </GridItem>
       </GridContainer>
