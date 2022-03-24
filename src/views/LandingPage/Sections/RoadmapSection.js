@@ -22,7 +22,7 @@ const roadmapItems = [
       {
         title: "Founder - Blockchain-Native Virtual Media (pre-launch)",
         description:
-          "Music-focused NFT project lead developer. Growth and go-to-market strategy lead, Project manager leading a group of 12 including content strategy, music production and 3D design teams. Core blockchain engineer and landing page developer. Scalable photo-real 3D generative art developer. Virtual production (Unreal Engine) and promotional materials editor. Virtual concert producer.",
+          "Music-focused NFT project lead developer. Developed cloud-based, multi-GPU, 3D photo-real generative art infrastructure that renders and uploads to IPFS 5-10X faster than typical local machines and is fault-tolerant. Growth and go-to-market strategy lead, Project manager leading a group of 12 including content strategy, music production and 3D design teams. Core blockchain engineer and landing page developer. Scalable photo-real 3D generative art developer. Virtual production (Unreal Engine) and promotional materials editor. Virtual concert producer.",
       },
       {
         title: "Virtual Concerts & Original Music",
@@ -87,7 +87,7 @@ export default function WorkSection() {
               <h1 className={classes.title}>Experience</h1>
               <h4 className={classes.description}>
                 {
-                  "Technology and innovation-focused former founder, product developer, project manager, and growth driver. Extensive experience across the entertainment industry, including major label, major talent agency, music & film production, and finance."
+                  "Technology and innovation-focused former founder, product developer, project manager, and growth driver. Extensive experience across the technology and entertainment industries, including major label, major talent agency, music & film production, and early stage startup."
                 }
                 {/* <HeaderLinks /> */}
                 <h1 />

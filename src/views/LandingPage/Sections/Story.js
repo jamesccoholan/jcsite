@@ -83,7 +83,7 @@ export default function Story() {
             <GridItem xs={12} sm={8} md={6}>
               <h4 className={classes.description}>
                 {
-                  "For this project, I am engineering our minting engine, virtually producing and editing our trailer, developing the landing page, managing content strategy and 3D design teams, and establishing and executing our growth and go-to-market strategy."
+                  "For this project, I am implementing out minting solution, virtually producing and editing our trailer, developing the landing page, managing content strategy and 3D design teams, and establishing and executing our growth and go-to-market strategy."
                 }
               </h4>
             </GridItem>

@@ -83,6 +83,16 @@ export default function LandingPage(props) {
                 >
                   Article
                 </Button>
+                <Button
+                  color="twitter"
+                  size="lg"
+                  href="https://github.com/jamesccoholan"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={classes.titleButton}
+                >
+                  Github
+                </Button>
                 {/* <Button
                   color="twitter"
                   size="lg"

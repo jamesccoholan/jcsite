@@ -56,7 +56,7 @@ const team = [
         rel="noreferrer"
         target="_blank"
       >
-        Etherscan Contract
+        Contract
       </a>
     ),
     link6: (
@@ -66,6 +66,15 @@ const team = [
         target="_blank"
       >
         Deck
+      </a>
+    ),
+    link7: (
+      <a
+        href="https://indd.adobe.com/view/30e69cf0-2477-4cb2-9c9a-e0696b616e06"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Whitepaper
       </a>
     ),
   },
@@ -249,9 +258,9 @@ export default function TeamSection() {
     <div className={classes.section}>
       <h2 className={classes.title}>Projects</h2>
       <h4 className={classes.smallTitle}>
+        Blockchain and next-gen virtual media and generative art developer.
         Focused on innovation in virtual production (Metaverse), Web3, NFTs, and
-        the creator economy. Full Stack Blockchain Developer & Certified AWS
-        Solutions Architect.
+        the creator economy. Certified AWS Solutions Architect.
       </h4>
       <div>
         <GridContainer>
@@ -266,6 +275,7 @@ export default function TeamSection() {
                       className={imageClasses}
                     />
                   </GridItem>
+
                   <h4 className={classes.cardTitle}>
                     {member.name}
                     <br />
@@ -282,6 +292,8 @@ export default function TeamSection() {
                     <small className={classes.smallTitle}>{member.link5}</small>
                     &nbsp;&emsp;
                     <small className={classes.smallTitle}>{member.link6}</small>
+                    &nbsp;&emsp;
+                    <small className={classes.smallTitle}>{member.link7}</small>
                   </h4>
                   <CardBody></CardBody>
                   <CardFooter className={classes.justifyCenter}></CardFooter>
