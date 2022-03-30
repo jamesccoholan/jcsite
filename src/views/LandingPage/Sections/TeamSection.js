@@ -16,7 +16,7 @@ import styles from "assets/jss/material-kit-react/views/landingPageSections/team
 const team = [
   {
     name: "DAC",
-    job: "10K NFT Project",
+    job: "10K Music NFT Project",
     img: "https://ik.imagekit.io/mbhxghyf1m2/DAC_117_7HAFJPCDx.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893991321",
     link: (
       <a
@@ -147,38 +147,38 @@ const team = [
       </a>
     ),
   },
-  // {
-  //   name: "Media Production",
-  //   job: "Video and Music Production",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images3_7mTBHrTis.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153725576",
-  //   link: (
-  //     <a
-  //       href="https://www.discoastronautclub.com/"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Website
-  //     </a>
-  //   ),
-  //   link2: (
-  //     <a
-  //       href="https://testnets.opensea.io/collection/dactestcollection"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       OpenSea
-  //     </a>
-  //   ),
-  //   link3: (
-  //     <a
-  //       href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Trailer
-  //     </a>
-  //   ),
-  // },
+  {
+    name: "Flow App",
+    job: "Blockchain Entertainment",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-03-30_at_3.16.06_PM_Qn5auOFJ7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648678594253",
+    link: (
+      <a
+        href="https://github.com/jamesccoholan/flow-app_james_coholan"
+        rel="noreferrer"
+        target="_blank"
+      >
+        GitHub
+      </a>
+    ),
+    link2: (
+      <a
+        href="https://testnets.opensea.io/collection/dactestcollection"
+        rel="noreferrer"
+        target="_blank"
+      >
+        OpenSea
+      </a>
+    ),
+    link3: (
+      <a
+        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Trailer
+      </a>
+    ),
+  },
   // {
   //   name: "Web Development",
   //   job: "Front End Web Programming",
@@ -260,7 +260,8 @@ export default function TeamSection() {
       <h4 className={classes.smallTitle}>
         Blockchain and next-gen virtual media and generative art developer.
         Focused on innovation in virtual production (Metaverse), Web3, NFTs, and
-        the creator economy. Certified AWS Solutions Architect.
+        the creator economy. Certified AWS Solutions Architect, USA & Canada
+        Dual Citizen.
       </h4>
       <div>
         <GridContainer>

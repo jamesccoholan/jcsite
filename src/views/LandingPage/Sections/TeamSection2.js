@@ -25,8 +25,8 @@ const team = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images1_4stx-zdRZzl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724360",
   },
   {
-    name: "Blockchain",
-    job: "Have succesfully minted NFT Collections",
+    name: "Solidity",
+    job: "Dapp Development",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images0_Z3xDvQ7i6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724774",
   },
   {
