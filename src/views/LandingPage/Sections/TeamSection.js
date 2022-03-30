@@ -160,24 +160,24 @@ const team = [
         GitHub
       </a>
     ),
-    link2: (
-      <a
-        href="https://testnets.opensea.io/collection/dactestcollection"
-        rel="noreferrer"
-        target="_blank"
-      >
-        OpenSea
-      </a>
-    ),
-    link3: (
-      <a
-        href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Trailer
-      </a>
-    ),
+    // link2: (
+    //   <a
+    //     href="https://testnets.opensea.io/collection/dactestcollection"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     OpenSea
+    //   </a>
+    // ),
+    // link3: (
+    //   <a
+    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Trailer
+    //   </a>
+    // ),
   },
   // {
   //   name: "Web Development",
