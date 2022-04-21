@@ -79,41 +79,36 @@ const team = [
     ),
   },
   {
-    name: "Agora",
-    job: "Virtual Concerts - Unreal Engine",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-03-22_at_11.18.15_AM_BaIjp77Pj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647973190387",
+    name: "Web3 Music Player",
+    job: "Solidity, Hardhat, Javascript, Ethers.js, IPFS",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
     link: (
       <a
-        href="https://www.experienceagora.com/"
+        href="https://github.com/jamesccoholan/web_3_music_player"
         rel="noreferrer"
         target="_blank"
       >
-        Website
+        Github
       </a>
     ),
     link2: (
       <a
-        href="https://www.linkedin.com/pulse/agora-white-paper-james-coholan/"
+        href="https://the-great-jamesccoholan-site.netlify.app/"
         rel="noreferrer"
         target="_blank"
       >
-        Whitepaper
+        Live App
       </a>
     ),
-    link3: (
-      <a
-        href="https://www.youtube.com/watch?v=QeVeqU00p7M"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Trailer
-      </a>
-    ),
-    link4: (
-      <a href="https://youtu.be/Xak8aGTgMTo" rel="noreferrer" target="_blank">
-        Demo
-      </a>
-    ),
+    // link3: (
+    //   <a
+    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Trailer
+    //   </a>
+    // ),
   },
   {
     name: "Diamond Bull Brigade",
@@ -176,37 +171,43 @@ const team = [
     // ),
   },
   {
-    name: "Web3 Music Player",
-    job: "Solidity, Hardhat, Javascript, Ethers.js, IPFS",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
+    name: "Agora",
+    job: "Virtual Concerts - Unreal Engine",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-03-22_at_11.18.15_AM_BaIjp77Pj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647973190387",
     link: (
       <a
-        href="https://github.com/jamesccoholan/web_3_music_player"
+        href="https://www.experienceagora.com/"
         rel="noreferrer"
         target="_blank"
       >
-        Github
+        Website
       </a>
     ),
     link2: (
       <a
-        href="https://the-great-jamesccoholan-site.netlify.app/"
+        href="https://www.linkedin.com/pulse/agora-white-paper-james-coholan/"
         rel="noreferrer"
         target="_blank"
       >
-        Live App
+        Whitepaper
       </a>
     ),
-    // link3: (
-    //   <a
-    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Trailer
-    //   </a>
-    // ),
+    link3: (
+      <a
+        href="https://www.youtube.com/watch?v=QeVeqU00p7M"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Trailer
+      </a>
+    ),
+    link4: (
+      <a href="https://youtu.be/Xak8aGTgMTo" rel="noreferrer" target="_blank">
+        Demo
+      </a>
+    ),
   },
+
   // {
   //   name: "Published Music",
   //   job: "Growth and Go-To-Market Strategy",
