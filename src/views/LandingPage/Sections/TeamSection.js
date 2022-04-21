@@ -188,15 +188,15 @@ const team = [
         Github
       </a>
     ),
-    // link2: (
-    //   <a
-    //     href="https://testnets.opensea.io/collection/dactestcollection"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     OpenSea
-    //   </a>
-    // ),
+    link2: (
+      <a
+        href="https://the-great-jamesccoholan-site.netlify.app/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Live App
+      </a>
+    ),
     // link3: (
     //   <a
     //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
