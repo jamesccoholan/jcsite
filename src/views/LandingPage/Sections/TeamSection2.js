@@ -29,11 +29,11 @@ const team = [
     job: "Dapp Development",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images0_Z3xDvQ7i6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724774",
   },
-  {
-    name: "Media Production",
-    job: "Video and Music Production",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images3_7mTBHrTis.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153725576",
-  },
+  // {
+  //   name: "Media Production",
+  //   job: "Video and Music Production",
+  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images3_7mTBHrTis.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153725576",
+  // },
   {
     name: "Web Development",
     job: "Front End Web Programming",

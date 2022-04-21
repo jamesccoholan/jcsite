@@ -26,7 +26,7 @@ export default function Story() {
             <GridItem xs={12} sm={8} md={6}>
               <h4 className={classes.description}>
                 {
-                  "I am incredibly passionate about the blockchain space, my goal is to develop and grow premium on-chain entertainment franchises. I believe it is the way every entertainment property will develop moving forward and I want to be a part of progressing the frontier. Some of my previous experience in the entertainment industry includes working at William Morris Endeavor, Atlantic Records, and growing a music creative agency I founded. In technology, I have been working as Creative Director/strategy and go-to-market lead at LightTwist, an early-stage Y Combinator startup over the last year."
+                  "I am incredibly passionate about the blockchain space, my goal being to develop, grow and progress the frontier of premium on-chain products and experience. My previous experience in the entertainment industry includes working at William Morris Endeavor, Atlantic Records, and growing a creative music agency I founded. In technology, I have been working as Creative Director at LightTwist, an early-stage Y Combinator startup over the last year."
                 }
               </h4>
             </GridItem>

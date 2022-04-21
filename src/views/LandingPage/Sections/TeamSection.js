@@ -148,16 +148,44 @@ const team = [
     ),
   },
   {
-    name: "Flow App",
-    job: "Blockchain Entertainment",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-03-30_at_3.16.06_PM_Qn5auOFJ7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648678594253",
+    name: "Siren",
+    job: "AI Text-To Speech at Scale",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-04-04_at_11.04.18_AM_XNz3pUWIq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649095482538",
     link: (
+      <a href="https://youtu.be/EX0dzVga-3Q" rel="noreferrer" target="_blank">
+        Backend Demo
+      </a>
+    ),
+    link2: (
       <a
-        href="https://github.com/jamesccoholan/flow-app_james_coholan"
+        href="https://www.youtube.com/channel/UCzETGOEaqbY-SQvbUUZw2Yw"
         rel="noreferrer"
         target="_blank"
       >
-        GitHub
+        YouTube Channel
+      </a>
+    ),
+    // link3: (
+    //   <a
+    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Trailer
+    //   </a>
+    // ),
+  },
+  {
+    name: "Web3 Music Player",
+    job: "Solidity, Hardhat, Javascript, Ethers.js, IPFS",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
+    link: (
+      <a
+        href="https://github.com/jamesccoholan/web_3_music_player"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Github
       </a>
     ),
     // link2: (
@@ -179,38 +207,6 @@ const team = [
     //   </a>
     // ),
   },
-  // {
-  //   name: "Web Development",
-  //   job: "Front End Web Programming",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
-  //   link: (
-  //     <a
-  //       href="https://www.discoastronautclub.com/"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Website
-  //     </a>
-  //   ),
-  //   link2: (
-  //     <a
-  //       href="https://testnets.opensea.io/collection/dactestcollection"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       OpenSea
-  //     </a>
-  //   ),
-  //   link3: (
-  //     <a
-  //       href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Trailer
-  //     </a>
-  //   ),
-  // },
   // {
   //   name: "Published Music",
   //   job: "Growth and Go-To-Market Strategy",
