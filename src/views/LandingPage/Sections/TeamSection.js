@@ -208,38 +208,34 @@ const team = [
     ),
   },
 
-  // {
-  //   name: "Published Music",
-  //   job: "Growth and Go-To-Market Strategy",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
-  //   link: (
-  //     <a
-  //       href="https://www.discoastronautclub.com/"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Website
-  //     </a>
-  //   ),
-  //   link2: (
-  //     <a
-  //       href="https://testnets.opensea.io/collection/dactestcollection"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Whitepaper
-  //     </a>
-  //   ),
-  //   link3: (
-  //     <a
-  //       href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Trailer
-  //     </a>
-  //   ),
-  // },
+  {
+    name: "Site",
+    job: "Music and Photo Site",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
+    link: (
+      <a href="https://jamescoholan.me/" rel="noreferrer" target="_blank">
+        Website
+      </a>
+    ),
+    link2: (
+      <a
+        href="https://github.com/jamesccoholan/starter_kit_2"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Github
+      </a>
+    ),
+    // link3: (
+    //   <a
+    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Trailer
+    //   </a>
+    // ),
+  },
 ];
 
 const useStyles = makeStyles(styles);
