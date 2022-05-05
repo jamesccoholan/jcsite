@@ -95,7 +95,7 @@ export default function LandingPage(props) {
                   Github
                 </Button>
                 <h1></h1>
-                <h4>Codewars Rank</h4>
+                <h4>CodeWars Rank</h4>
                 <img src="https://www.codewars.com/users/jamesccoholan/badges/large" />
               </GridItem>
             </GridContainer>
