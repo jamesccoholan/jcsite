@@ -59,7 +59,8 @@ export default function LandingPage(props) {
                 <h1 className={classes.title}>James Coholan</h1>
                 <h2 className={classes.subtitle}>Creative Technologist</h2>
                 <h4>
-                  Project Manager, Developer, Producer, Growth Driver, Innovator
+                  Software Engineer, Project Manager, Producer, Growth Driver,
+                  Innovator
                 </h4>
 
                 <br />
