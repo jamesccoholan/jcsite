@@ -61,6 +61,7 @@ export default function LandingPage(props) {
                 <h4>
                   Project Manager, Developer, Producer, Growth Driver, Innovator
                 </h4>
+
                 <br />
                 <Button
                   color="twitter"
@@ -93,16 +94,9 @@ export default function LandingPage(props) {
                 >
                   Github
                 </Button>
-                {/* <Button
-                  color="twitter"
-                  size="lg"
-                  href="https://github.com/jamesccoholan"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className={classes.titleButton}
-                >
-                  Contact
-                </Button> */}
+                <h1></h1>
+                <h4>Codewars Rank</h4>
+                <img src="https://www.codewars.com/users/jamesccoholan/badges/large" />
               </GridItem>
             </GridContainer>
           </div>

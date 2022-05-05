@@ -209,7 +209,7 @@ const team = [
   },
 
   {
-    name: "Site",
+    name: "Blockchain Development Challenges",
     job: "Music and Photo Site",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
     link: (
