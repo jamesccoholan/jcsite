@@ -179,34 +179,26 @@ const team = [
       </a>
     ),
   },
-  {
-    name: "Siren",
-    job: "AI Text-To Speech at Scale",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-04-04_at_11.04.18_AM_XNz3pUWIq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649095482538",
-    link: (
-      <a href="https://youtu.be/EX0dzVga-3Q" rel="noreferrer" target="_blank">
-        Backend Demo
-      </a>
-    ),
-    link2: (
-      <a
-        href="https://www.youtube.com/channel/UCzETGOEaqbY-SQvbUUZw2Yw"
-        rel="noreferrer"
-        target="_blank"
-      >
-        YouTube Channel
-      </a>
-    ),
-    // link3: (
-    //   <a
-    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Trailer
-    //   </a>
-    // ),
-  },
+  // {
+  //   name: "Siren",
+  //   job: "AI Text-To Speech at Scale",
+  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-04-04_at_11.04.18_AM_XNz3pUWIq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649095482538",
+  //   link: (
+  //     <a href="https://youtu.be/EX0dzVga-3Q" rel="noreferrer" target="_blank">
+  //       Backend Demo
+  //     </a>
+  //   ),
+  //   link2: (
+  //     <a
+  //       href="https://www.youtube.com/channel/UCzETGOEaqbY-SQvbUUZw2Yw"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       YouTube Channel
+  //     </a>
+  //   ),
+
+  // },
 
   // {
   //   name: "Blockchain Development Project",

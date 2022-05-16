@@ -20,7 +20,7 @@ const roadmapItems = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/6061e9b66445fd43aec03647_Brink_spot-illo02__1__kPyi9XVjm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652717447731",
     items: [
       {
-        title: "Building critical infrastructure for Decentralized Finance.",
+        title: "Building Critical Fnfrastructure for Decentralized Finance.",
         description:
           "Automate Your Transactions. Conditional orders and automated loss protection for Ethereum.",
       },
@@ -37,7 +37,7 @@ const roadmapItems = [
     items: [
       {
         title:
-          "Enabling creators and brands to build seamlessly in the Web3 era.",
+          "Enabling Creators and Brands to Build Seamlessly in the Web3 Era.",
         description:
           "Build your brand, sell your work, and grow your community using the power of the blockchain. All on the Minotaur platform.",
       },
