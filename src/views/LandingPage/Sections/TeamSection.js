@@ -79,37 +79,74 @@ const team = [
     ),
   },
   {
-    name: "Web3 Music Player",
-    job: "Solidity, Hardhat, Javascript, Ethers.js, IPFS",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
+    name: "Agora",
+    job: "Virtual Concerts - Unreal Engine",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.45.51_AM_FE_LMIImJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719567473",
     link: (
       <a
-        href="https://github.com/jamesccoholan/web_3_music_player"
+        href="https://www.experienceagora.com/"
         rel="noreferrer"
         target="_blank"
       >
-        Github
+        Website
       </a>
     ),
     link2: (
       <a
-        href="https://the-great-jamesccoholan-site.netlify.app/"
+        href="https://www.linkedin.com/pulse/agora-white-paper-james-coholan/"
         rel="noreferrer"
         target="_blank"
       >
-        Live App
+        Whitepaper
       </a>
     ),
-    // link3: (
-    //   <a
-    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Trailer
-    //   </a>
-    // ),
+    link3: (
+      <a
+        href="https://www.youtube.com/watch?v=QeVeqU00p7M"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Trailer
+      </a>
+    ),
+    link4: (
+      <a href="https://youtu.be/Xak8aGTgMTo" rel="noreferrer" target="_blank">
+        Demo
+      </a>
+    ),
   },
+  // {
+  //   name: "Web3 Music Player",
+  //   job: "Solidity, Hardhat, Javascript, Ethers.js, IPFS",
+  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
+  //   link: (
+  //     <a
+  //       href="https://github.com/jamesccoholan/web_3_music_player"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Github
+  //     </a>
+  //   ),
+  //   link2: (
+  //     <a
+  //       href="https://the-great-jamesccoholan-site.netlify.app/"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Live App
+  //     </a>
+  //   ),
+  //   // link3: (
+  //   //   <a
+  //   //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+  //   //     rel="noreferrer"
+  //   //     target="_blank"
+  //   //   >
+  //   //     Trailer
+  //   //   </a>
+  //   // ),
+  // },
   {
     name: "Diamond Bull Brigade",
     job: "Photo-Real, Animated NFTs",
@@ -170,72 +207,35 @@ const team = [
     //   </a>
     // ),
   },
-  {
-    name: "Agora",
-    job: "Virtual Concerts - Unreal Engine",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-03-22_at_11.18.15_AM_BaIjp77Pj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647973190387",
-    link: (
-      <a
-        href="https://www.experienceagora.com/"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Website
-      </a>
-    ),
-    link2: (
-      <a
-        href="https://www.linkedin.com/pulse/agora-white-paper-james-coholan/"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Whitepaper
-      </a>
-    ),
-    link3: (
-      <a
-        href="https://www.youtube.com/watch?v=QeVeqU00p7M"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Trailer
-      </a>
-    ),
-    link4: (
-      <a href="https://youtu.be/Xak8aGTgMTo" rel="noreferrer" target="_blank">
-        Demo
-      </a>
-    ),
-  },
 
-  {
-    name: "Blockchain Development Challenges",
-    job: "Music and Photo Site",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
-    link: (
-      <a href="https://jamescoholan.me/" rel="noreferrer" target="_blank">
-        Website
-      </a>
-    ),
-    link2: (
-      <a
-        href="https://github.com/jamesccoholan/starter_kit_2"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Github
-      </a>
-    ),
-    // link3: (
-    //   <a
-    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Trailer
-    //   </a>
-    // ),
-  },
+  // {
+  //   name: "Blockchain Development Project",
+  //   job: "Music and Photo Site",
+  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
+  //   link: (
+  //     <a href="https://jamescoholan.me/" rel="noreferrer" target="_blank">
+  //       Website
+  //     </a>
+  //   ),
+  //   link2: (
+  //     <a
+  //       href="https://github.com/jamesccoholan/starter_kit_2"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Github
+  //     </a>
+  //   ),
+  //   // link3: (
+  //   //   <a
+  //   //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+  //   //     rel="noreferrer"
+  //   //     target="_blank"
+  //   //   >
+  //   //     Trailer
+  //   //   </a>
+  //   // ),
+  // },
 ];
 
 const useStyles = makeStyles(styles);
@@ -251,10 +251,8 @@ export default function TeamSection() {
     <div className={classes.section}>
       <h2 className={classes.title}>Projects</h2>
       <h4 className={classes.smallTitle}>
-        Blockchain and next-gen virtual media and generative art developer.
-        Focused on innovation in virtual production (Metaverse), Web3, NFTs, and
-        the creator economy. Certified AWS Solutions Architect, USA & Canada
-        Dual Citizen.
+        Blockchain and next-gen developer. Focused on innovation in Finance,
+        NFTs, and Web3 geenrally. Certified AWS Solutions Architect.
       </h4>
       <div>
         <GridContainer>

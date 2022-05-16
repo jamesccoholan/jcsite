@@ -16,8 +16,40 @@ const useStyles = makeStyles(styles);
 
 const roadmapItems = [
   {
+    phase: "Brink",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/6061e9b66445fd43aec03647_Brink_spot-illo02__1__kPyi9XVjm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652717447731",
+    items: [
+      {
+        title: "Building critical infrastructure for Decentralized Finance.",
+        description:
+          "Automate Your Transactions. Conditional orders and automated loss protection for Ethereum.",
+      },
+      {
+        title: "Business Partner Integrations",
+        description:
+          "Partnerships and business development, integrating core product.",
+      },
+    ],
+  },
+  {
+    phase: "Minotaur",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.38.47_AM_6vYqYKMcKm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719148180",
+    items: [
+      {
+        title:
+          "Enabling creators and brands to build seamlessly in the Web3 era.",
+        description:
+          "Build your brand, sell your work, and grow your community using the power of the blockchain. All on the Minotaur platform.",
+      },
+      {
+        title: "Project Manager",
+        description: "Business sourcing, end to end NFT solution.",
+      },
+    ],
+  },
+  {
     phase: "DAC",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
+    img: "https://ik.imagekit.io/5ierklngtbt/img/Helmet_Icon_3_HvuJndXuL?ik-sdk-version=javascript-1.4.3&updatedAt=1643768808897",
     items: [
       {
         title: "Founder - Blockchain-Native Virtual Media (pre-launch)",
@@ -33,7 +65,7 @@ const roadmapItems = [
   },
   {
     phase: "LightTwist",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.33.45_AM_lg-WjFAOD.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652718907968",
     items: [
       {
         title: "Founding Creative Director",
@@ -49,7 +81,7 @@ const roadmapItems = [
   },
   {
     phase: "SYB Creative",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/SYB_Creative_Icon_2_bCuqi50Y-.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1652719219082",
     items: [
       {
         title: "Founder",
@@ -65,7 +97,7 @@ const roadmapItems = [
   },
   {
     phase: "William Morris Endeavour",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/226580_IUC1wV5Kvn3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645152762381",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.42.15_AM_AITlY1jow.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719357291",
     items: [
       {
         title: "Music Department",
@@ -87,7 +119,7 @@ export default function WorkSection() {
               <h1 className={classes.title}>Experience</h1>
               <h4 className={classes.description}>
                 {
-                  "Technology and innovation-focused former founder, product developer, project manager, and growth driver. Extensive experience across the technology and entertainment industries, including major label, major talent agency, music & film production, and early stage startup."
+                  "Blockchain, finance, and technology and focused founder, product developer, project manager, and growth driver. Extensive experience across the technology, finance and entertainment industries."
                 }
                 {/* <HeaderLinks /> */}
                 <h1 />

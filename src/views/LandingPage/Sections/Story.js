@@ -26,7 +26,7 @@ export default function Story() {
             <GridItem xs={12} sm={8} md={6}>
               <h4 className={classes.description}>
                 {
-                  "I am incredibly passionate about the blockchain space, my goal being to develop, grow and progress the frontier of premium on-chain products and experience. My previous experience in the entertainment industry includes working at William Morris Endeavor, Atlantic Records, and growing a creative music agency I founded. In technology, I have been working as Creative Director at LightTwist, an early-stage Y Combinator startup over the last year."
+                  "Focused on Web3 innovation and incredibly passionate about the blockchain space, James’ goal is moving with velocity at the intersection of the blockchain, finance, technology, and media. He is busy developing, growing, and progressing the frontier of premium on-chain products and experiences. He is a founder, product developer, project manager, and growth driver. Extensive experience across technology, finance, media, and entertainment. James spent his teen years acting on television shows which gave him professional experience interfacing with top-tier Hollywood talent. His acting career lead him to LA where he attended Occidental College and took internships at Atlantic Records and City National Bank."
                 }
               </h4>
             </GridItem>
@@ -66,7 +66,7 @@ export default function Story() {
                 )}
               >
                 {
-                  "The NFT project I founded, Disco Astronaut Club, is a direct materialization of my goal to bring entertainment properties to the blockchain. The idea is to mint an artist and allow the community to take part in the appreciation of the brand as it expands with original music releases, and live shows. Conceptually similar to NBA Top Shop, DAC aims to mint collections of concert highlights."
+                  "Following graduation, James joined the William Morris Endeavour Music department, the largest talent agency in the world representing clientele such as Drake, The Weeknd, Bruno Mars, and Calvin Harris. Stepping full time into an entrepreneurial endeavor James took his Media production, growth marketing, and partnership development abilities and founded SYB Creative. Through his agency, they had over 70 successful music releases and sold out esteem venues across Los Angles such as Warwick, the Sofitel, and the troubadour. SYB Creative ventured into virtual media, developing a prototype for a virtual concert app called Agora."
                 }
               </h4>
             </GridItem>
@@ -83,7 +83,7 @@ export default function Story() {
             <GridItem xs={12} sm={8} md={6}>
               <h4 className={classes.description}>
                 {
-                  "For this project, I am implementing out minting solution, virtually producing and editing our trailer, developing the landing page, managing content strategy and 3D design teams, and establishing and executing our growth and go-to-market strategy."
+                  "This expertise lead James to join LightTwist as Founding Creative Director, the YC company focused on innovation in providing access to real-time 3D game engines to all creators. James’ original NFT project DAC, is a direct materialization of his efforts to bring premium entertainment properties to the blockchain. Financially endowing consumers to take ownership of stakes in their favorite media is the driving goal. Conceptually similar to NBA Top Shop, DAC aims to mint collections of concert highlights. James implemented the minting solution, virtually produced and edited the trailer, developed the landing page, managed content strategy, and 3D design teams, and established and executed the growth and go-to-market strategy."
                 }
               </h4>
             </GridItem>
@@ -91,7 +91,7 @@ export default function Story() {
               <img
                 className={classes.image}
                 src={
-                  "https://ik.imagekit.io/5ierklngtbt/img/story/Party_D7ZilzNIt?ik-sdk-version=javascript-1.4.3&updatedAt=1643773798811"
+                  "https://ik.imagekit.io/mbhxghyf1m2/trade-finance-2021-1200-1612375664_cHrfjwF0o.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1652654213370"
                 }
                 alt="Party Scene"
               />

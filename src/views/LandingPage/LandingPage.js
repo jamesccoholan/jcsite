@@ -57,8 +57,10 @@ export default function LandingPage(props) {
             <GridContainer>
               <GridItem xs={12} sm={12} md={6}>
                 <h1 className={classes.title}>James Coholan</h1>
-                <h2 className={classes.subtitle}>Creative Technologist</h2>
-                <h4>Software Engineer, Project Manager, Producer, Inovator</h4>
+                <h2 className={classes.subtitle}>Blockchain Technologist</h2>
+                <h4>
+                  Project Manager, Growth Driver, Developer, Producer, Inovator
+                </h4>
 
                 <br />
                 <Button
@@ -93,8 +95,8 @@ export default function LandingPage(props) {
                   Github
                 </Button>
                 <h1></h1>
-                <h4>CodeWars Rank</h4>
-                <img src="https://www.codewars.com/users/jamesccoholan/badges/large" />
+                {/* <h4>CodeWars Rank</h4>
+                <img src="https://www.codewars.com/users/jamesccoholan/badges/large" /> */}
               </GridItem>
             </GridContainer>
           </div>

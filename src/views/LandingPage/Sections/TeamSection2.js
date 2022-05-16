@@ -44,11 +44,11 @@ const team = [
     job: "Growth and Go-To-Market Strategy",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
   },
-  // {
-  //   name: "Technologist",
-  //   job: "On the frontier of knowledge and understanding of next gen tech",
-  //   img: "https://ik.imagekit.io/5ierklngtbt/img/NewSuits/11_Sy5D6Z-YW?ik-sdk-version=javascript-1.4.3&updatedAt=1643773690863",
-  // },
+  {
+    name: "Investing",
+    job: "Asset analysis and capital management",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-11_at_3.06.02_PM_Kr2OsGNEm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652306872138",
+  },
   // {
   //   name: "Dre",
   //   job: "Content Strategist and Promotion",
