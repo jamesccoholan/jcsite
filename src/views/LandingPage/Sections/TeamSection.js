@@ -243,8 +243,8 @@ export default function TeamSection() {
     <div className={classes.section}>
       <h2 className={classes.title}>Projects</h2>
       <h4 className={classes.smallTitle}>
-        Blockchain and next-gen developer. Focused on innovation in Finance,
-        NFTs, and Web3 geenrally. Certified AWS Solutions Architect.
+        Blockchain and next-gen media developer. Focused on innovation in Web3.
+        Certified AWS Solutions Architect.
       </h4>
       <div>
         <GridContainer>

@@ -20,7 +20,7 @@ const roadmapItems = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/6061e9b66445fd43aec03647_Brink_spot-illo02__1__kPyi9XVjm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652717447731",
     items: [
       {
-        title: "Building Critical Fnfrastructure for Decentralized Finance.",
+        title: "Building Critical Infrastructure for Decentralized Finance",
         description:
           "Automate Your Transactions. Conditional orders and automated loss protection for Ethereum.",
       },
@@ -37,13 +37,14 @@ const roadmapItems = [
     items: [
       {
         title:
-          "Enabling Creators and Brands to Build Seamlessly in the Web3 Era.",
+          "Enabling Creators and Brands to Build Seamlessly in the Web3 Era",
         description:
           "Build your brand, sell your work, and grow your community using the power of the blockchain. All on the Minotaur platform.",
       },
       {
         title: "Project Manager",
-        description: "Business sourcing, end to end NFT solution.",
+        description:
+          "Business sourcing and end-to-end execution on NFT campaigns.",
       },
     ],
   },
@@ -64,16 +65,16 @@ const roadmapItems = [
     ],
   },
   {
-    phase: "LightTwist",
+    phase: "LightTwist (YC 21)",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.33.45_AM_lg-WjFAOD.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652718907968",
     items: [
       {
         title: "Founding Creative Director",
         description:
-          "LightTwist (YC 21) is a Mac app that turns your room into a customizable virtual video studio. Making virtual production tech accessible to creators on a Mac without needing special equipment or 3D game engine knowledge. We’re leveraging the Mac for real-time feedback and recording, and a powerful GPU server for higher-quality post-production and rendering using the Unreal and Unity Engines.",
+          "LightTwist is a Mac app that turns your room into a customizable virtual video studio. Making virtual production tech accessible to creators on a Mac without needing special equipment or 3D game engine knowledge. We’re leveraging the Mac for real-time feedback and recording, and a powerful GPU server for higher-quality post-production and rendering using the Unreal and Unity Engines.",
       },
       {
-        title: "(YC 21) Democratizing Access to High End Virtual Production",
+        title: "Democratizing Access to High End Virtual Production",
         description:
           "Virtual production and creative direction. Go-to-market strategy, evaluating alpha user experiences to inform engineering and product release initiatives. Technical product management, automated a cloud-native AI video segmentation workflow. Alpha user growth strategist, a growing wait-list of over 1,000 early product access sign-ups. Social media video content producer and strategist. Product development, working with engineers and designers to implement features.",
       },
@@ -106,6 +107,17 @@ const roadmapItems = [
       },
     ],
   },
+  {
+    phase: "Atlantic Records",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/6a1305014288c16f31bc553c3ff149f1_xzIL_9a3E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652906464586",
+    items: [
+      {
+        title: "Promotions Department",
+        description:
+          "Worked on campaigns for artists such as Charlier Puth, Wiz Khalifa, and Omarion.",
+      },
+    ],
+  },
 ];
 
 export default function WorkSection() {
@@ -119,7 +131,7 @@ export default function WorkSection() {
               <h1 className={classes.title}>Experience</h1>
               <h4 className={classes.description}>
                 {
-                  "Blockchain, finance, and technology and focused founder, product developer, project manager, and growth driver. Extensive experience across the technology, finance and entertainment industries."
+                  "Blockchain, media, finance, and technology and focused founder, product developer, project manager, and growth driver."
                 }
                 {/* <HeaderLinks /> */}
                 <h1 />
