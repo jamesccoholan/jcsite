@@ -16,7 +16,7 @@ import styles from "assets/jss/material-kit-react/views/landingPageSections/team
 const team = [
   {
     name: "DAC",
-    job: "10K Music NFT Project",
+    job: "Blockchain-Native Virtual Entertainment Franchise",
     img: "https://ik.imagekit.io/mbhxghyf1m2/DAC_117_7HAFJPCDx.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893991321",
     link: (
       <a
@@ -68,15 +68,15 @@ const team = [
         Deck
       </a>
     ),
-    link7: (
-      <a
-        href="https://indd.adobe.com/view/30e69cf0-2477-4cb2-9c9a-e0696b616e06"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Whitepaper
-      </a>
-    ),
+    // link7: (
+    //   <a
+    //     href="https://indd.adobe.com/view/30e69cf0-2477-4cb2-9c9a-e0696b616e06"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Whitepaper
+    //   </a>
+    // ),
   },
   {
     name: "Agora",
@@ -218,16 +218,6 @@ const team = [
   //       Github
   //     </a>
   //   ),
-  //   // link3: (
-  //   //   <a
-  //   //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-  //   //     rel="noreferrer"
-  //   //     target="_blank"
-  //   //   >
-  //   //     Trailer
-  //   //   </a>
-  //   // ),
-  // },
 ];
 
 const useStyles = makeStyles(styles);
@@ -241,7 +231,7 @@ export default function TeamSection() {
   );
   return (
     <div className={classes.section}>
-      <h2 className={classes.title}>Projects</h2>
+      <h2 className={classes.title}>Products</h2>
       <h4 className={classes.smallTitle}>
         Blockchain and next-gen media developer. Focused on innovation in Web3.
         Certified AWS Solutions Architect.

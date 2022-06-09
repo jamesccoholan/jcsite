@@ -57,11 +57,12 @@ export default function LandingPage(props) {
             <GridContainer>
               <GridItem xs={12} sm={12} md={6}>
                 <h1 className={classes.title}>James Coholan</h1>
-                <h2 className={classes.subtitle}>Blockchain Technologist</h2>
+                <h2 className={classes.subtitle}>Web3 Product Manager</h2>
                 <h4>
-                  Project Manager, Growth Driver, Developer, Producer, Inovator
+                  Technical Product Manager, Web3 Developer, Generative Art and
+                  Visual Media Expert, Growth Driver, Engineer, Virtual
+                  Producer, Innovator
                 </h4>
-
                 <br />
                 <Button
                   color="twitter"

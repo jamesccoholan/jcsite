@@ -15,22 +15,22 @@ import styles from "assets/jss/material-kit-react/views/landingPageSections/road
 const useStyles = makeStyles(styles);
 
 const roadmapItems = [
-  {
-    phase: "Brink",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/6061e9b66445fd43aec03647_Brink_spot-illo02__1__kPyi9XVjm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652717447731",
-    items: [
-      {
-        title: "Building Critical Infrastructure for Decentralized Finance",
-        description:
-          "Automate Your Transactions. Conditional orders and automated loss protection for Ethereum.",
-      },
-      {
-        title: "Business Partner Integrations",
-        description:
-          "Partnerships and business development, integrating core product.",
-      },
-    ],
-  },
+  // {
+  //   phase: "Brink",
+  //   img: "https://ik.imagekit.io/mbhxghyf1m2/6061e9b66445fd43aec03647_Brink_spot-illo02__1__kPyi9XVjm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652717447731",
+  //   items: [
+  //     {
+  //       title: "Building Critical Infrastructure for Decentralized Finance",
+  //       description:
+  //         "Automate Your Transactions. Conditional orders and automated loss protection for Ethereum.",
+  //     },
+  //     {
+  //       title: "Business Partner Integrations",
+  //       description:
+  //         "Partnerships and business development, integrating core product.",
+  //     },
+  //   ],
+  // },
   {
     phase: "Minotaur",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.38.47_AM_6vYqYKMcKm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719148180",
