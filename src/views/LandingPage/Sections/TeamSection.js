@@ -15,8 +15,8 @@ import styles from "assets/jss/material-kit-react/views/landingPageSections/team
 
 const team = [
   {
-    name: "DAC",
-    job: "Blockchain-Native Virtual Entertainment Franchise",
+    name: "AstroChain",
+    job: "Blockchain-Native Virtual Concerts and Artists.",
     img: "https://ik.imagekit.io/mbhxghyf1m2/DAC_117_7HAFJPCDx.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893991321",
     link: (
       <a
@@ -29,11 +29,11 @@ const team = [
     ),
     link2: (
       <a
-        href="https://testnets.opensea.io/collection/daclarge"
+        href="https://linktr.ee/discoastronautclub"
         rel="noreferrer"
         target="_blank"
       >
-        OpenSea
+        LinkTree
       </a>
     ),
     link3: (
@@ -115,38 +115,38 @@ const team = [
       </a>
     ),
   },
-  // {
-  //   name: "Web3 Music Player",
-  //   job: "Solidity, Hardhat, Javascript, Ethers.js, IPFS",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
-  //   link: (
-  //     <a
-  //       href="https://github.com/jamesccoholan/web_3_music_player"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Github
-  //     </a>
-  //   ),
-  //   link2: (
-  //     <a
-  //       href="https://the-great-jamesccoholan-site.netlify.app/"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Live App
-  //     </a>
-  //   ),
-  //   // link3: (
-  //   //   <a
-  //   //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-  //   //     rel="noreferrer"
-  //   //     target="_blank"
-  //   //   >
-  //   //     Trailer
-  //   //   </a>
-  //   // ),
-  // },
+  {
+    name: "AstroChain",
+    job: "Product Managment Case Study",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
+    link: (
+      <a
+        href="https://docs.google.com/document/d/1D-G8x0rMrZqXmG9mFTc-bNZbvtfXbA7JWGFJNFlTnpo/edit?usp=sharing"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Case Study
+      </a>
+    ),
+    // link2: (
+    //   <a
+    //     href="https://the-great-jamesccoholan-site.netlify.app/"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Live App
+    //   </a>
+    // ),
+    // link3: (
+    //   <a
+    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Trailer
+    //   </a>
+    // ),
+  },
   {
     name: "Diamond Bull Brigade",
     job: "Photo-Real, Animated NFTs",
@@ -179,45 +179,45 @@ const team = [
       </a>
     ),
   },
-  // {
-  //   name: "Siren",
-  //   job: "AI Text-To Speech at Scale",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-04-04_at_11.04.18_AM_XNz3pUWIq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649095482538",
-  //   link: (
-  //     <a href="https://youtu.be/EX0dzVga-3Q" rel="noreferrer" target="_blank">
-  //       Backend Demo
-  //     </a>
-  //   ),
-  //   link2: (
-  //     <a
-  //       href="https://www.youtube.com/channel/UCzETGOEaqbY-SQvbUUZw2Yw"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       YouTube Channel
-  //     </a>
-  //   ),
+  {
+    name: "Siren",
+    job: "AI Text-To Speech at Scale",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-04-04_at_11.04.18_AM_XNz3pUWIq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649095482538",
+    link: (
+      <a href="https://youtu.be/EX0dzVga-3Q" rel="noreferrer" target="_blank">
+        Backend Demo
+      </a>
+    ),
+    link2: (
+      <a
+        href="https://www.youtube.com/channel/UCzETGOEaqbY-SQvbUUZw2Yw"
+        rel="noreferrer"
+        target="_blank"
+      >
+        YouTube Channel
+      </a>
+    ),
 
-  // },
-
-  // {
-  //   name: "Blockchain Development Project",
-  //   job: "Music and Photo Site",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
-  //   link: (
-  //     <a href="https://jamescoholan.me/" rel="noreferrer" target="_blank">
-  //       Website
-  //     </a>
-  //   ),
-  //   link2: (
-  //     <a
-  //       href="https://github.com/jamesccoholan/starter_kit_2"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Github
-  //     </a>
-  //   ),
+  },
+  {
+    name: "Blockchain Development Project",
+    job: "Music and Photo Site",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
+    link: (
+      <a href="https://jamescoholan.me/" rel="noreferrer" target="_blank">
+        Website
+      </a>
+    ),
+    link2: (
+      <a
+        href="https://github.com/jamesccoholan/starter_kit_2"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Github
+      </a>
+    ),
+  }
 ];
 
 const useStyles = makeStyles(styles);
@@ -233,8 +233,7 @@ export default function TeamSection() {
     <div className={classes.section}>
       <h2 className={classes.title}>Products</h2>
       <h4 className={classes.smallTitle}>
-        Blockchain and next-gen media developer. Focused on innovation in Web3.
-        Certified AWS Solutions Architect.
+        Senior Product Manager. Certified AWS Solutions Architect.
       </h4>
       <div>
         <GridContainer>
@@ -249,7 +248,6 @@ export default function TeamSection() {
                       className={imageClasses}
                     />
                   </GridItem>
-
                   <h4 className={classes.cardTitle}>
                     {member.name}
                     <br />

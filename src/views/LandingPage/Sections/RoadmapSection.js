@@ -49,16 +49,16 @@ const roadmapItems = [
     ],
   },
   {
-    phase: "DAC",
+    phase: "AstroChain",
     img: "https://ik.imagekit.io/5ierklngtbt/img/Helmet_Icon_3_HvuJndXuL?ik-sdk-version=javascript-1.4.3&updatedAt=1643768808897",
     items: [
       {
-        title: "Founder - Blockchain-Native Virtual Media (pre-launch)",
+        title: "Founder - Blockchain-Native Virtual Artists and Concerts",
         description:
           "Music-focused NFT project lead developer. Developed cloud-based, multi-GPU, 3D photo-real generative art infrastructure that renders and uploads to IPFS 5-10X faster than typical local machines and is fault-tolerant. Growth and go-to-market strategy lead, Project manager leading a group of 12 including content strategy, music production and 3D design teams. Core blockchain engineer and landing page developer. Scalable photo-real 3D generative art developer. Virtual production (Unreal Engine) and promotional materials editor. Virtual concert producer.",
       },
       {
-        title: "Virtual Concerts & Original Music",
+        title: "Original Virtual Media and Music",
         description:
           "Photo-real fully immersive concert experience featuring original virtual artists minted on the blockchain. NFT Mint. The First On-Chain, Virtually Native Media Franchise. A higher bar for art, music and visual media. The DAC leverages advanced virtual production techniques to create radically compelling entertainment and bring the Disconauts to life. Next-Gen Immersive Virtual Media and 3D Art.A Percentage of Music Royalties. Incredible Original and Generative Music. The artist as an investible asset. DAC will have original music drops that the community takes an ownership stake in. Holders will get music royalties according to the number of DAC NFTs they posses. 10,000 unique generative pieces of music will be ascribed to the NFTs.",
       },
