@@ -197,7 +197,6 @@ const team = [
         YouTube Channel
       </a>
     ),
-
   },
   {
     name: "Blockchain Development Project",
@@ -217,9 +216,8 @@ const team = [
         Github
       </a>
     ),
-  }
+  },
 ];
-
 const useStyles = makeStyles(styles);
 
 export default function TeamSection() {
