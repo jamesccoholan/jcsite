@@ -26,7 +26,7 @@ export default function Story() {
             <GridItem xs={12} sm={8} md={6}>
               <h4 className={classes.description}>
                 {
-                  "Focused on Web3 innovation and passionate about the blockchain space, James operates with velocity at the intersection of technology, finance, media and entertainment. He is busy developing, growing, and progressing the frontier of premium on-chain products and experiences. He is a founder, developer, project manager, and growth driver. James began working professionally in entertainment as a television actor in high school before moving to Los Angeles where he attended Occidental College and took internships at Atlantic Records and City National Bank. Following graduation, James joined the William Morris Endeavour Music Department. WME is the largest talent agency in the world and represents clientele such as Drake, The Weeknd, Bruno Mars, and Calvin Harris."
+                  "Focused and passionate about Product Management, James operates with velocity at the intersection of  finance, media, and technology. He is busy developing, growing, and progressing the frontier of premium on-chain products and experiences. He is a founder, developer, project manager, and growth driver. James began working professionally in entertainment as a television actor in high school before moving to Los Angeles where he attended Occidental College and took internships at Atlantic Records and City National Bank. Following graduation, James joined the William Morris Endeavour Music Department. WME is the largest talent agency in the world and represents clientele such as Drake, The Weeknd, Bruno Mars, and Calvin Harris."
                 }
               </h4>
             </GridItem>
