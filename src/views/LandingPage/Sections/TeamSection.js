@@ -15,8 +15,8 @@ import styles from "assets/jss/material-kit-react/views/landingPageSections/team
 
 const team = [
   {
-    name: "AstroChain",
-    job: "Blockchain-Native Virtual Concerts and Artists.",
+    name: "AstroChain, Inc.",
+    job: "Blockchain-Native Virtual Concerts and Artists",
     img: "https://ik.imagekit.io/mbhxghyf1m2/DAC_117_7HAFJPCDx.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893991321",
     link: (
       <a
@@ -45,11 +45,11 @@ const team = [
         Trailer
       </a>
     ),
-    link4: (
-      <a href="https://dacmint.netlify.app/" rel="noreferrer" target="_blank">
-        Minting Dapp
-      </a>
-    ),
+    // link4: (
+    //   <a href="https://dacmint.netlify.app/" rel="noreferrer" target="_blank">
+    //     Minting Dapp
+    //   </a>
+    // ),
     link5: (
       <a
         href="https://rinkeby.etherscan.io/address/0x36FB97aC78767502488725480614eEFF78668d39#code"
@@ -75,6 +75,38 @@ const team = [
     //     target="_blank"
     //   >
     //     Whitepaper
+    //   </a>
+    // ),
+  },
+  {
+    name: "AstroChain",
+    job: "Product Managment Case Study",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
+    link: (
+      <a
+        href="https://docs.google.com/document/d/1D-G8x0rMrZqXmG9mFTc-bNZbvtfXbA7JWGFJNFlTnpo/edit?usp=sharing"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Case Study
+      </a>
+    ),
+    // link2: (
+    //   <a
+    //     href="https://the-great-jamesccoholan-site.netlify.app/"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Live App
+    //   </a>
+    // ),
+    // link3: (
+    //   <a
+    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Trailer
     //   </a>
     // ),
   },
@@ -114,38 +146,6 @@ const team = [
         Demo
       </a>
     ),
-  },
-  {
-    name: "AstroChain",
-    job: "Product Managment Case Study",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
-    link: (
-      <a
-        href="https://docs.google.com/document/d/1D-G8x0rMrZqXmG9mFTc-bNZbvtfXbA7JWGFJNFlTnpo/edit?usp=sharing"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Case Study
-      </a>
-    ),
-    // link2: (
-    //   <a
-    //     href="https://the-great-jamesccoholan-site.netlify.app/"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Live App
-    //   </a>
-    // ),
-    // link3: (
-    //   <a
-    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Trailer
-    //   </a>
-    // ),
   },
   {
     name: "Diamond Bull Brigade",
@@ -229,7 +229,7 @@ export default function TeamSection() {
   );
   return (
     <div className={classes.section}>
-      <h2 className={classes.title}>Products</h2>
+      <h2 className={classes.title}>Product Managment Porftfoilio</h2>
       <h4 className={classes.smallTitle}>
         Senior Product Manager. Certified AWS Solutions Architect.
       </h4>
