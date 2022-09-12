@@ -15,7 +15,7 @@ import styles from "assets/jss/material-kit-react/views/landingPageSections/team
 
 const team = [
   {
-    name: "AstroChain, Inc.",
+    name: "AstroChain",
     job: "Blockchain-Native Virtual Concerts and Artists",
     img: "https://ik.imagekit.io/mbhxghyf1m2/DAC_117_7HAFJPCDx.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893991321",
     link: (
@@ -51,12 +51,8 @@ const team = [
     //   </a>
     // ),
     link5: (
-      <a
-        href="https://rinkeby.etherscan.io/address/0x36FB97aC78767502488725480614eEFF78668d39#code"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Contract
+      <a href="https://youtu.be/kTDqLNHoNBc" rel="noreferrer" target="_blank">
+        Music Video
       </a>
     ),
     link6: (
@@ -66,6 +62,15 @@ const team = [
         target="_blank"
       >
         Deck
+      </a>
+    ),
+    link7: (
+      <a
+        href="https://docs.google.com/document/d/1D-G8x0rMrZqXmG9mFTc-bNZbvtfXbA7JWGFJNFlTnpo/edit?usp=sharing"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Case Study
       </a>
     ),
     // link7: (
@@ -78,51 +83,43 @@ const team = [
     //   </a>
     // ),
   },
-  {
-    name: "AstroChain",
-    job: "Product Managment Case Study",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
-    link: (
-      <a
-        href="https://docs.google.com/document/d/1D-G8x0rMrZqXmG9mFTc-bNZbvtfXbA7JWGFJNFlTnpo/edit?usp=sharing"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Case Study
-      </a>
-    ),
-    // link2: (
-    //   <a
-    //     href="https://the-great-jamesccoholan-site.netlify.app/"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Live App
-    //   </a>
-    // ),
-    // link3: (
-    //   <a
-    //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Trailer
-    //   </a>
-    // ),
-  },
+  // {
+  //   name: "AstroChain",
+  //   job: "Product Managment Case Study",
+  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
+
+  //   link2: (
+  //     <a
+  //       href="https://the-great-jamesccoholan-site.netlify.app/"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Live App
+  //     </a>
+  //   ),
+  //   link3: (
+  //     <a
+  //       href="https://www.youtube.com/watch?v=ezRnFj08KlI"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Trailer
+  //     </a>
+  //   ),
+  // },
   {
     name: "Agora",
     job: "Virtual Concerts - Unreal Engine",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.45.51_AM_FE_LMIImJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719567473",
-    link: (
-      <a
-        href="https://www.experienceagora.com/"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Website
-      </a>
-    ),
+    // link: (
+    //   <a
+    //     href="https://www.experienceagora.com/"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Website
+    //   </a>
+    // ),
     link2: (
       <a
         href="https://www.linkedin.com/pulse/agora-white-paper-james-coholan/"
