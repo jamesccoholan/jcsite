@@ -52,16 +52,18 @@ export default function LandingPage(props) {
         }
         alt="James Coholan"
       >
-        ååå
         <Fade duration={2000} bottom cascade>
           <div className={classes.container}>
             <GridContainer>
               <GridItem xs={12} sm={12} md={6}>
                 <h1 className={classes.title}>James Coholan</h1>
-                <h2 className={classes.subtitle}>Product Manager</h2>
+                <h2 className={classes.subtitle}>
+                  Software Engineer & Product Manager
+                </h2>
                 <h4>
-                  Technical Product Manager, Developer, Growth Driver, Virtual
-                  Producer, Generative Art and Visual Media Expert, Innovator
+                  Software Engineer, Front End Web Developer, Technical Product
+                  Manager, Certified AWS Solutions Architect, Virtual Producer,
+                  Innovator
                 </h4>
                 <br />
                 <Button

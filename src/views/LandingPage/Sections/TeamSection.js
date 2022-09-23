@@ -19,11 +19,7 @@ const team = [
     job: "Blockchain-Native Virtual Concerts and Artists",
     img: "https://ik.imagekit.io/mbhxghyf1m2/DAC_117_7HAFJPCDx.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893991321",
     link: (
-      <a
-        href="https://www.discoastronautclub.com/"
-        rel="noreferrer"
-        target="_blank"
-      >
+      <a href="https://www.astrochainxr.com/" rel="noreferrer" target="_blank">
         Website
       </a>
     ),
@@ -45,11 +41,6 @@ const team = [
         Trailer
       </a>
     ),
-    // link4: (
-    //   <a href="https://dacmint.netlify.app/" rel="noreferrer" target="_blank">
-    //     Minting Dapp
-    //   </a>
-    // ),
     link5: (
       <a href="https://youtu.be/kTDqLNHoNBc" rel="noreferrer" target="_blank">
         Music Video
@@ -73,140 +64,23 @@ const team = [
         Case Study
       </a>
     ),
-    // link7: (
-    //   <a
-    //     href="https://indd.adobe.com/view/30e69cf0-2477-4cb2-9c9a-e0696b616e06"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Whitepaper
-    //   </a>
-    // ),
-  },
-  // {
-  //   name: "AstroChain",
-  //   job: "Product Managment Case Study",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
-
-  //   link2: (
-  //     <a
-  //       href="https://the-great-jamesccoholan-site.netlify.app/"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Live App
-  //     </a>
-  //   ),
-  //   link3: (
-  //     <a
-  //       href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Trailer
-  //     </a>
-  //   ),
-  // },
-  {
-    name: "Agora",
-    job: "Virtual Concerts - Unreal Engine",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.45.51_AM_FE_LMIImJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719567473",
-    // link: (
-    //   <a
-    //     href="https://www.experienceagora.com/"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Website
-    //   </a>
-    // ),
-    link2: (
-      <a
-        href="https://www.linkedin.com/pulse/agora-white-paper-james-coholan/"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Whitepaper
-      </a>
-    ),
-    link3: (
-      <a
-        href="https://www.youtube.com/watch?v=QeVeqU00p7M"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Trailer
-      </a>
-    ),
-    link4: (
-      <a href="https://youtu.be/Xak8aGTgMTo" rel="noreferrer" target="_blank">
-        Demo
-      </a>
-    ),
   },
   {
-    name: "Diamond Bull Brigade",
-    job: "Photo-Real, Animated NFTs",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/RBRIGHT_CUFZWa5HN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893971111",
-    // link: (
-    //   <a
-    //     href="https://www.discoastronautclub.com/"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Website
-    //   </a>
-    // ),
-    link2: (
-      <a
-        href="https://testnets.opensea.io/collection/dbb"
-        rel="noreferrer"
-        target="_blank"
-      >
-        OpenSea Collection
-      </a>
-    ),
-    link3: (
-      <a
-        href="https://rinkeby.etherscan.io/address/0xc2746B9960120d7976E16159b5f890eeC1253ABF#code"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Etherscan Contract
-      </a>
-    ),
-  },
-  {
-    name: "Siren",
-    job: "AI Text-To Speech at Scale",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-04-04_at_11.04.18_AM_XNz3pUWIq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649095482538",
+    name: "Vera Bradley Website",
+    job: "NFT Collection Web Development",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/9ec26a7082a63a8a52977199d7919dcc.w400.h400_yRo7mWm0dp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663942431358",
     link: (
-      <a href="https://youtu.be/EX0dzVga-3Q" rel="noreferrer" target="_blank">
-        Backend Demo
-      </a>
-    ),
-    link2: (
       <a
-        href="https://www.youtube.com/channel/UCzETGOEaqbY-SQvbUUZw2Yw"
+        href="https://worldofverabradley.com/"
         rel="noreferrer"
         target="_blank"
       >
-        YouTube Channel
-      </a>
-    ),
-  },
-  {
-    name: "Blockchain Development Project",
-    job: "Music and Photo Site",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
-    link: (
-      <a href="https://jamescoholan.me/" rel="noreferrer" target="_blank">
         Website
       </a>
     ),
     link2: (
       <a
-        href="https://github.com/jamesccoholan/starter_kit_2"
+        href="https://github.com/jamesccoholan/vb-client-main-2-master.git"
         rel="noreferrer"
         target="_blank"
       >
@@ -214,6 +88,81 @@ const team = [
       </a>
     ),
   },
+  {
+    name: "Invisible Universe Website",
+    job: "React Front End Web Dev",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/asdasdasd_12qj6VkPj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663942642946",
+    link: (
+      <a
+        href="https://the-awesome-jamesccoholan-site.netlify.app/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Website
+      </a>
+    ),
+    link2: (
+      <a
+        href="https://github.com/jamesccoholan/port.git"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Github
+      </a>
+    ),
+  },
+  // {
+  //   name: "Agora",
+  //   job: "Virtual Concerts - Unreal Engine",
+  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.45.51_AM_FE_LMIImJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719567473",
+
+  //   link2: (
+  //     <a
+  //       href="https://www.linkedin.com/pulse/agora-white-paper-james-coholan/"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Whitepaper
+  //     </a>
+  //   ),
+  //   link3: (
+  //     <a
+  //       href="https://www.youtube.com/watch?v=QeVeqU00p7M"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Trailer
+  //     </a>
+  //   ),
+  //   link4: (
+  //     <a href="https://youtu.be/Xak8aGTgMTo" rel="noreferrer" target="_blank">
+  //       Demo
+  //     </a>
+  //   ),
+  // },
+  // {
+  //   name: "Diamond Bull Brigade",
+  //   job: "Photo-Real, Animated NFTs",
+  //   img: "https://ik.imagekit.io/mbhxghyf1m2/RBRIGHT_CUFZWa5HN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893971111",
+  //   link2: (
+  //     <a
+  //       href="https://testnets.opensea.io/collection/dbb"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       OpenSea Collection
+  //     </a>
+  //   ),
+  //   link3: (
+  //     <a
+  //       href="https://rinkeby.etherscan.io/address/0xc2746B9960120d7976E16159b5f890eeC1253ABF#code"
+  //       rel="noreferrer"
+  //       target="_blank"
+  //     >
+  //       Etherscan Contract
+  //     </a>
+  //   ),
+  // },
 ];
 const useStyles = makeStyles(styles);
 
@@ -226,9 +175,10 @@ export default function TeamSection() {
   );
   return (
     <div className={classes.section}>
-      <h2 className={classes.title}>Product Managment Porftfoilio</h2>
+      <h2 className={classes.title}>Portfolio</h2>
       <h4 className={classes.smallTitle}>
-        Senior Product Manager. Certified AWS Solutions Architect.
+        Software Engeineer, Front End Web Developer, Senior Product Manager.
+        Certified AWS Solutions Architect.
       </h4>
       <div>
         <GridContainer>

@@ -20,6 +20,16 @@ const team = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images2__fLMe4U70.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723074",
   },
   {
+    name: "React",
+    job: "Front End Web Development",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
+  },
+  {
+    name: "Javascript / HTML / CSS",
+    job: "Web Dev",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-11_at_3.06.02_PM_Kr2OsGNEm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652306872138",
+  },
+  {
     name: "Virtual Production",
     job: "Unreal Engine Expert",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images1_4stx-zdRZzl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724360",
@@ -39,16 +49,7 @@ const team = [
     job: "Front End Web Programming",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
   },
-  {
-    name: "Strategy",
-    job: "Growth and Go-To-Market Strategy",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
-  },
-  {
-    name: "Investing",
-    job: "Asset analysis and capital management",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-11_at_3.06.02_PM_Kr2OsGNEm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652306872138",
-  },
+
   // {
   //   name: "Dre",
   //   job: "Content Strategist and Promotion",
