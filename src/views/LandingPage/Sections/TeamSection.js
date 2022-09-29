@@ -66,6 +66,16 @@ const team = [
     ),
   },
   {
+    name: "AstroChain Version 2",
+    job: "Blockchain-Native Virtual Concerts and Artists",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/DAC_Square/DAC_5_OixPnUga9.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1663948530310",
+    link: (
+      <a href="https://www.culverlads.com/" rel="noreferrer" target="_blank">
+        Website
+      </a>
+    ),
+  },
+  {
     name: "Vera Bradley Website",
     job: "NFT Collection Web Development",
     img: "https://ik.imagekit.io/mbhxghyf1m2/9ec26a7082a63a8a52977199d7919dcc.w400.h400_yRo7mWm0dp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663942431358",

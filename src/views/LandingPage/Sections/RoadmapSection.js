@@ -36,9 +36,9 @@ const roadmapItems = [
     img: "https://ik.imagekit.io/5ierklngtbt/img/Helmet_Icon_3_HvuJndXuL?ik-sdk-version=javascript-1.4.3&updatedAt=1643768808897",
     items: [
       {
-        title: "Founder - Blockchain-Native Virtual Artists and Concerts",
+        title: "Web Developer // Product Manager // Founder",
         description:
-          "Music-focused NFT project lead developer. Developed cloud-based, multi-GPU, 3D photo-real generative art infrastructure that renders and uploads to IPFS 5-10X faster than typical local machines and is fault-tolerant. Growth and go-to-market strategy lead, Project manager leading a group of 12 including content strategy, music production and 3D design teams. Core blockchain engineer and landing page developer. Scalable photo-real 3D generative art developer. Virtual production (Unreal Engine) and promotional materials editor. Virtual concert producer.",
+          "Blockchain-Native Virtual Artists and Concerts. -- Music-focused NFT project lead developer. Developed cloud-based, multi-GPU, 3D photo-real generative art infrastructure that renders and uploads to IPFS 5-10X faster than typical local machines and is fault-tolerant. Growth and go-to-market strategy lead, Project manager leading a group of 12 including content strategy, music production and 3D design teams. Core blockchain engineer and landing page developer. Scalable photo-real 3D generative art developer. Virtual production (Unreal Engine) and promotional materials editor. Virtual concert producer.",
       },
       {
         title: "Original Virtual Media and Music",
@@ -52,10 +52,9 @@ const roadmapItems = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.38.47_AM_6vYqYKMcKm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719148180",
     items: [
       {
-        title:
-          "Enabling Creators and Brands to Build Seamlessly in the Web3 Era",
+        title: "Web Developer & Product Manager. ",
         description:
-          "Build your brand, sell your work, and grow your community using the power of the blockchain. All on the Minotaur platform.",
+          "Enabling Creators and Brands to Build Seamlessly in the Web3 Era. Build your brand, sell your work, and grow your community using the power of the blockchain. All on the Minotaur platform.",
       },
       {
         title: "Project Manager",
@@ -85,7 +84,7 @@ const roadmapItems = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/SYB_Creative_Icon_2_bCuqi50Y-.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1652719219082",
     items: [
       {
-        title: "Founder",
+        title: "Web Developer, Product Manager, Founder",
         description:
           "A creative media agency focused on production, distribution of next-gen media products.",
       },
