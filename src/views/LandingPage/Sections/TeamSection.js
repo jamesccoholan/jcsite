@@ -121,35 +121,35 @@ const team = [
       </a>
     ),
   },
-  // {
-  //   name: "Agora",
-  //   job: "Virtual Concerts - Unreal Engine",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.45.51_AM_FE_LMIImJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719567473",
+  {
+    name: "Agora",
+    job: "Virtual Concerts - Unreal Engine",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.45.51_AM_FE_LMIImJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719567473",
 
-  //   link2: (
-  //     <a
-  //       href="https://www.linkedin.com/pulse/agora-white-paper-james-coholan/"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Whitepaper
-  //     </a>
-  //   ),
-  //   link3: (
-  //     <a
-  //       href="https://www.youtube.com/watch?v=QeVeqU00p7M"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Trailer
-  //     </a>
-  //   ),
-  //   link4: (
-  //     <a href="https://youtu.be/Xak8aGTgMTo" rel="noreferrer" target="_blank">
-  //       Demo
-  //     </a>
-  //   ),
-  // },
+    link2: (
+      <a
+        href="https://www.linkedin.com/pulse/agora-white-paper-james-coholan/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Whitepaper
+      </a>
+    ),
+    link3: (
+      <a
+        href="https://www.youtube.com/watch?v=QeVeqU00p7M"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Trailer
+      </a>
+    ),
+    link4: (
+      <a href="https://youtu.be/Xak8aGTgMTo" rel="noreferrer" target="_blank">
+        Demo
+      </a>
+    ),
+  },
   // {
   //   name: "Diamond Bull Brigade",
   //   job: "Photo-Real, Animated NFTs",
