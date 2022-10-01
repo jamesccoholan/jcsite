@@ -98,7 +98,7 @@ const team = [
     job: "Virtual Concerts - Unreal Engine",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.45.51_AM_FE_LMIImJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719567473",
 
-    link1: (
+    link: (
       <a
         href="https://www.linkedin.com/pulse/agora-white-paper-james-coholan/"
         rel="noreferrer"
@@ -206,8 +206,8 @@ export default function TeamSection() {
     <div className={classes.section}>
       <h2 className={classes.title}>Portfolio</h2>
       <h4 className={classes.smallTitle}>
-        Software Engeineer, Front End Web Developer, Senior Product Manager.
-        Certified AWS Solutions Architect.
+      Technical Product Manager, Creative Director, Software Developer, Certified AWS Solutions Architect, Virtual Producer,
+                  Innovator
       </h4>
       <div>
         <GridContainer>
