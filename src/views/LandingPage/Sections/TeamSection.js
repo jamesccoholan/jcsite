@@ -206,8 +206,8 @@ export default function TeamSection() {
     <div className={classes.section}>
       <h2 className={classes.title}>Portfolio</h2>
       <h4 className={classes.smallTitle}>
-      Technical Product Manager, Creative Director, Software Developer, Certified AWS Solutions Architect, Virtual Producer,
-                  Innovator
+        Technical Product Manager, Creative Director, Software Developer,
+        Certified AWS Solutions Architect, Virtual Producer, Innovator
       </h4>
       <div>
         <GridContainer>

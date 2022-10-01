@@ -60,9 +60,7 @@ export default function LandingPage(props) {
                 <h2 className={classes.subtitle}>
                   Web3 Product Manager, Creative Lead, Software Developer
                 </h2>
-                <h4>
-                  
-                </h4>
+                <h4></h4>
                 <br />
                 <Button
                   color="twitter"
