@@ -71,27 +71,27 @@ const team = [
     img: "https://ik.imagekit.io/mbhxghyf1m2/DAC_Square/DAC_5_OixPnUga9.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1663948530310",
     link: (
       <a href="https://www.culverlads.com/" rel="noreferrer" target="_blank">
-        Website
+        Website 2
       </a>
     ),
-    link2: (
-      <a
-        href="https://testnets.opensea.io/collection/daclarge"
-        rel="noreferrer"
-        target="_blank"
-      >
-        OpenSea NFT Collection
-      </a>
-    ),
-    link3: (
-      <a
-        href="https://docs.google.com/document/d/1aQBynSFYMRDbvVfCDc25McwqaJl8xn_fyj7f1Ir5Fd8/edit?usp=sharing"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Discord Strategy
-      </a>
-    ),
+    // link2: (
+    //   <a
+    //     href="https://testnets.opensea.io/collection/daclarge"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     OpenSea NFT Collection
+    //   </a>
+    // ),
+    // link3: (
+    //   <a
+    //     href="https://docs.google.com/document/d/1aQBynSFYMRDbvVfCDc25McwqaJl8xn_fyj7f1Ir5Fd8/edit?usp=sharing"
+    //     rel="noreferrer"
+    //     target="_blank"
+    //   >
+    //     Discord Strategy
+    //   </a>
+    // ),
   },
   {
     name: "Agora",
