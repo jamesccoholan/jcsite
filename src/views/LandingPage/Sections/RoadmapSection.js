@@ -15,22 +15,17 @@ import styles from "assets/jss/material-kit-react/views/landingPageSections/road
 const useStyles = makeStyles(styles);
 
 const roadmapItems = [
-  // {
-  //   phase: "Brink",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/6061e9b66445fd43aec03647_Brink_spot-illo02__1__kPyi9XVjm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652717447731",
-  //   items: [
-  //     {
-  //       title: "Building Critical Infrastructure for Decentralized Finance",
-  //       description:
-  //         "Automate Your Transactions. Conditional orders and automated loss protection for Ethereum.",
-  //     },
-  //     {
-  //       title: "Business Partner Integrations",
-  //       description:
-  //         "Partnerships and business development, integrating core product.",
-  //     },
-  //   ],
-  // },
+  {
+    phase: "YMU",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Untitled-1_djFOhC9gX.png?ik-sdk-version=javascript-1.4.3&updatedAt=1674700410638",
+    items: [
+      {
+        title: "Full service artist management",
+        description:
+          "Blockchain-Native Virtual Artists and Concerts. -- Music-focused NFT project lead developer. Developed cloud-based, multi-GPU, 3D photo-real generative art infrastructure that renders and uploads to IPFS 5-10X faster than typical local machines and is fault-tolerant. Growth and go-to-market strategy lead, Project manager leading a group of 12 including content strategy, music production and 3D design teams. Core blockchain engineer and landing page developer. Scalable photo-real 3D generative art developer. Virtual production (Unreal Engine) and promotional materials editor. Virtual concert producer.",
+      },
+    ],
+  },
   {
     phase: "AstroChain",
     img: "https://ik.imagekit.io/5ierklngtbt/img/Helmet_Icon_3_HvuJndXuL?ik-sdk-version=javascript-1.4.3&updatedAt=1643768808897",

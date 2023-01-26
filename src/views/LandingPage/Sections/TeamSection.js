@@ -66,34 +66,6 @@ const team = [
     ),
   },
   {
-    name: "Disco Astonaut Club",
-    job: "Metaverse DJ NFTs",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/DAC_Square/DAC_5_OixPnUga9.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1663948530310",
-    link: (
-      <a href="https://www.culverlads.com/" rel="noreferrer" target="_blank">
-        Website 2
-      </a>
-    ),
-    // link2: (
-    //   <a
-    //     href="https://testnets.opensea.io/collection/daclarge"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     OpenSea NFT Collection
-    //   </a>
-    // ),
-    // link3: (
-    //   <a
-    //     href="https://docs.google.com/document/d/1aQBynSFYMRDbvVfCDc25McwqaJl8xn_fyj7f1Ir5Fd8/edit?usp=sharing"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Discord Strategy
-    //   </a>
-    // ),
-  },
-  {
     name: "Agora",
     job: "Virtual Concerts - Unreal Engine",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.45.51_AM_FE_LMIImJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719567473",
@@ -123,30 +95,7 @@ const team = [
     ),
   },
   {
-    name: "Vera Bradley NFT Website",
-    job: "NFT Collection Web Development",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/9ec26a7082a63a8a52977199d7919dcc.w400.h400_yRo7mWm0dp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663942431358",
-    link: (
-      <a
-        href="https://worldofverabradley.com/"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Website
-      </a>
-    ),
-    link2: (
-      <a
-        href="https://github.com/jamesccoholan/vb-client-main-2-master.git"
-        rel="noreferrer"
-        target="_blank"
-      >
-        Github
-      </a>
-    ),
-  },
-  {
-    name: "Invisible Universe NFT Website",
+    name: "Invisible Universe Website",
     job: "React Front End Web Dev",
     img: "https://ik.imagekit.io/mbhxghyf1m2/asdasdasd_12qj6VkPj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663942642946",
     link: (
