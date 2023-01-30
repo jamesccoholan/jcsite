@@ -21,8 +21,7 @@ const roadmapItems = [
     items: [
       {
         title: "Full service artist management",
-        description:
-          "Blockchain-Native Virtual Artists and Concerts. -- Music-focused NFT project lead developer. Developed cloud-based, multi-GPU, 3D photo-real generative art infrastructure that renders and uploads to IPFS 5-10X faster than typical local machines and is fault-tolerant. Growth and go-to-market strategy lead, Project manager leading a group of 12 including content strategy, music production and 3D design teams. Core blockchain engineer and landing page developer. Scalable photo-real 3D generative art developer. Virtual production (Unreal Engine) and promotional materials editor. Virtual concert producer.",
+        description: "",
       },
     ],
   },
